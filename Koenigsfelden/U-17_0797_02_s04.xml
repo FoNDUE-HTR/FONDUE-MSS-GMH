@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>U-17_0797_02_s04.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="4912"
+          HEIGHT="7360"
+          PHYSICAL_IMG_NR="133"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4912"
+                  HEIGHT="7360">
+        
+        <TextBlock HPOS="1959"
+                   VPOS="4096"
+                   WIDTH="449"
+                   HEIGHT="215"
+                   ID="region_1531750750662_99"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1959 4096 2408 4096 2408 4311 1959 4311"/></Shape>
+          
+          
+          <TextLine ID="line_1531750826370_104"
+                    
+                    BASELINE="1990 4268 2388 4265" 
+                    HPOS="1983"
+                    VPOS="4084"
+                    WIDTH="399"
+                    HEIGHT="252">
+            <Shape><Polygon POINTS="1989 4262 1989 4084 2382 4133 2382 4262 2376 4336 1983 4287"/></Shape>
+	    <String CONTENT="1482 ."
+                    HPOS="1983"
+                    VPOS="4084"
+                    WIDTH="399"
+                    HEIGHT="252"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1954"
+                   VPOS="4370"
+                   WIDTH="519"
+                   HEIGHT="250"
+                   ID="region_1531750760131_102"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1954 4370 2473 4370 2473 4620 1954 4620"/></Shape>
+          
+          
+          <TextLine ID="line_1531751024176_108"
+                    
+                    BASELINE="2005 4543 2376 4528" 
+                    HPOS="1995"
+                    VPOS="4385"
+                    WIDTH="375"
+                    HEIGHT="233">
+            <Shape><Polygon POINTS="2001 4538 1995 4385 2357 4385 2370 4526 2363 4618 1995 4587"/></Shape>
+	    <String CONTENT="Kuͦnigfl"
+                    HPOS="1995"
+                    VPOS="4385"
+                    WIDTH="375"
+                    HEIGHT="233"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1794"
+                   VPOS="4575"
+                   WIDTH="934"
+                   HEIGHT="245"
+                   ID="region_1531750761931_103"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1794 4575 2728 4575 2728 4820 1794 4820"/></Shape>
+          
+          
+          <TextLine ID="line_1531751041684_109"
+                    
+                    BASELINE="1817 4785 2702 4759" 
+                    HPOS="1786"
+                    VPOS="4557"
+                    WIDTH="915"
+                    HEIGHT="263">
+            <Shape><Polygon POINTS="1811 4784 1786 4618 1891 4575 1891 4575 1897 4575 1897 4575 1897 4575 1903 4575 1903 4575 2161 4612 2179 4612 2191 4612 2370 4557 2376 4557 2376 4557 2376 4557 2382 4557 2382 4557 2689 4606 2701 4753 2695 4784 2167 4777 1811 4820"/></Shape>
+	    <String CONTENT="Mùhle Mùlinen"
+                    HPOS="1786"
+                    VPOS="4557"
+                    WIDTH="915"
+                    HEIGHT="263"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2009"
+                   VPOS="4835"
+                   WIDTH="709"
+                   HEIGHT="334"
+                   ID="region_1531750754489_100"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="2009 4835 2718 4835 2718 5169 2009 5169"/></Shape>
+          
+          
+          <TextLine ID="line_1531750903274_106"
+                    
+                    BASELINE="2131 5011 2629 4973" 
+                    HPOS="2112"
+                    VPOS="4845"
+                    WIDTH="515"
+                    HEIGHT="184">
+            <Shape><Polygon POINTS="2130 5010 2112 4888 2609 4845 2627 4968 2621 4986 2130 5029"/></Shape>
+	    <String CONTENT="Staatsarchiv"
+                    HPOS="2112"
+                    VPOS="4845"
+                    WIDTH="515"
+                    HEIGHT="184"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1531750905163_107"
+                    
+                    BASELINE="2176 5129 2603 5095" 
+                    HPOS="2149"
+                    VPOS="4968"
+                    WIDTH="454"
+                    HEIGHT="226">
+            <Shape><Polygon POINTS="2173 5127 2149 5010 2228 4968 2228 4968 2228 4968 2234 4968 2234 4968 2241 4968 2584 4974 2597 5090 2603 5182 2173 5194"/></Shape>
+	    <String CONTENT="AARGAU"
+                    HPOS="2149"
+                    VPOS="4968"
+                    WIDTH="454"
+                    HEIGHT="226"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1939"
+                   VPOS="5219"
+                   WIDTH="544"
+                   HEIGHT="200"
+                   ID="region_1531750756787_101"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1939 5219 2483 5219 2483 5419 1939 5419"/></Shape>
+          
+          
+          <TextLine ID="line_1531750860243_105"
+                    
+                    BASELINE="1976 5347 2463 5340" 
+                    HPOS="1958"
+                    VPOS="5201"
+                    WIDTH="504"
+                    HEIGHT="214">
+            <Shape><Polygon POINTS="1970 5342 1958 5219 2443 5201 2462 5336 2456 5372 2253 5403 2253 5403 2247 5403 2247 5403 2247 5403 2241 5403 2216 5397 2136 5372 1977 5415"/></Shape>
+	    <String CONTENT="797 / 02"
+                    HPOS="1958"
+                    VPOS="5201"
+                    WIDTH="504"
+                    HEIGHT="214"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

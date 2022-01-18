@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>U-17_0760_r.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="7360"
+          HEIGHT="4912"
+          PHYSICAL_IMG_NR="116"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="7360"
+                  HEIGHT="4912">
+        
+        <TextBlock HPOS="1360"
+                   VPOS="1433"
+                   WIDTH="4683"
+                   HEIGHT="981"
+                   ID="region_1516045925152_4"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1360 1433 6043 1433 6043 2414 1360 2414"/></Shape>
+          
+          
+          <TextLine ID="region_1516045925152_4l1"
+                    
+                    BASELINE="1368 1530 1610 1518 1853 1508 2095 1501 2338 1494 2580 1490 2823 1486 3065 1484 3308 1482 3550 1482 3793 1482 4035 1484 4278 1486 4520 1488 4763 1492 5005 1496 5248 1500 5490 1504 5733 1508 5976 1514" 
+                    HPOS="1359"
+                    VPOS="1420"
+                    WIDTH="4613"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1367 1526 1359 1444 1973 1420 1977 1420 5968 1428 5972 1510 5968 1522 3680 1502 1367 1535"/></Shape>
+	    <String CONTENT="Wir, nachgenempten Johānes Tschop, caplan der pfruͦnd im spital ze Brugg, Niclaus Fricker, altstattschriber ze Bern, und Claus Keiserisen, der Smid, burger ze Brugg, bekēnent offenlich"
+                    HPOS="1359"
+                    VPOS="1420"
+                    WIDTH="4613"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1516045925152_4l2"
+                    
+                    BASELINE="1476 1582 1712 1570 1949 1562 2185 1554 2422 1548 2659 1542 2895 1538 3132 1536 3369 1534 3605 1534 3842 1534 4078 1536 4315 1538 4552 1540 4785 1551 5022 1555 5287 1562 5523 1568 5735 1563 5972 1568" 
+                    HPOS="1465"
+                    VPOS="1469"
+                    WIDTH="4503"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="1473 1580 1465 1506 3209 1469 3213 1469 5964 1494 5968 1567 5960 1575 3188 1555 3037 1584 3037 1584 3037 1584 3037 1584 3033 1584 3033 1584 3033 1584 2836 1559 1473 1588"/></Shape>
+	    <String CONTENT="mitt disem brief, als den̄ her Bilgri Staͤlli, lùtpriester zuͦ Brugg, die erwirdigen unser gneͣdigen frowen von Kùngsfelden jetz guͤtlich angevordert hat ✳ im das mùrli an der lùtpriestry"
+                    HPOS="1465"
+                    VPOS="1469"
+                    WIDTH="4503"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1516045925152_4l3"
+                    
+                    BASELINE="1462 1630 1701 1622 1941 1614 2181 1608 2420 1602 2660 1598 2900 1594 3139 1592 3379 1590 3619 1590 3858 1590 4098 1592 4338 1594 4577 1596 4817 1599 5057 1602 5296 1608 5536 1612 5776 1618 6016 1624" 
+                    HPOS="1453"
+                    VPOS="1522"
+                    WIDTH="4560"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1461 1629 1453 1555 3753 1522 3757 1522 6009 1551 6013 1620 6005 1629 3757 1608 1461 1637"/></Shape>
+	    <String CONTENT="hus ze Brugg, das den kilchof und das hoͤfli, das zum hus dienet underscheidt und aber bresthaft und ze machen notdurftig ist, ✳ ze machen, ✳ als im ouch das ✳ vormaln, do er die lùtprie¬"
+                    HPOS="1453"
+                    VPOS="1522"
+                    WIDTH="4560"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1516045925152_4l4"
+                    
+                    BASELINE="1476 1684 1713 1674 1950 1666 2188 1660 2425 1654 2663 1650 2900 1646 3138 1644 3375 1642 3613 1642 3850 1644 4088 1644 4325 1647 4563 1650 4800 1653 5038 1656 5275 1660 5513 1665 5750 1670 5988 1674" 
+                    HPOS="1465"
+                    VPOS="1580"
+                    WIDTH="4519"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="1473 1682 1465 1612 3029 1580 3033 1580 5976 1596 5984 1670 5976 1678 3057 1661 1473 1694"/></Shape>
+	    <String CONTENT="stry ze verwechseln meinte, ✳ und aber uff unser frowen beger und bitt ✳ davon liesse und bi der lùtpriestry belib, ✳ soͤlle zuͦgesagt und aber unser frowen und ir amptlùt ✳ im des nach in̄halt"
+                    HPOS="1465"
+                    VPOS="1580"
+                    WIDTH="4519"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1516045925152_4l5"
+                    
+                    BASELINE="1441 1737 1726 1727 1961 1718 2196 1710 2430 1704 2665 1700 2909 1702 3144 1700 3369 1694 3604 1694 3839 1696 4074 1698 4308 1700 4543 1702 4778 1706 5013 1709 5247 1712 5482 1714 5717 1718 5952 1720" 
+                    HPOS="1432"
+                    VPOS="1629"
+                    WIDTH="4519"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1440 1735 1432 1670 3471 1629 3475 1629 5947 1649 5951 1719 5943 1727 3458 1711 3061 1735 3057 1735 3057 1735 3057 1735 3053 1735 3053 1735 3053 1735 3008 1715 2656 1715 1440 1747"/></Shape>
+	    <String CONTENT="sins verschribens gen inen, ✳ als wir verstuͦndent nitt meinten pflichtig sin, ✳ und sich denocht begeben habent, das durch ir amptlùt zebesechen lassen und den̄ fùro daruf zeantwurten"
+                    HPOS="1432"
+                    VPOS="1629"
+                    WIDTH="4519"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1516045925152_4l6"
+                    
+                    BASELINE="1441 1792 1712 1780 1945 1770 2178 1764 2411 1758 2644 1752 2877 1750 3109 1748 3342 1746 3575 1746 3808 1748 4041 1749 4274 1752 4506 1754 4739 1756 4972 1760 5205 1762 5438 1766 5671 1770 5904 1772" 
+                    HPOS="1432"
+                    VPOS="1686"
+                    WIDTH="4470"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1440 1788 1432 1723 2308 1686 2312 1686 5898 1698 5902 1768 5894 1776 2308 1772 1440 1801"/></Shape>
+	    <String CONTENT="ꝫcꝭ, das ouch uff hùtt, datū dis briefs, durch die ersamen Hansen Cristan und Uͦlrichē am Buͤl, ir hofmeister, und Cuͦnratē Widmer, irn pfruͦnder und jetz amptman ir jarzitampts,"
+                    HPOS="1432"
+                    VPOS="1686"
+                    WIDTH="4470"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1516045925152_4l7"
+                    
+                    BASELINE="1468 1844 1705 1840 1945 1830 2187 1814 2427 1808 2666 1804 2906 1800 3146 1798 3386 1798 3626 1798 3865 1798 4105 1800 4345 1803 4585 1806 4825 1808 5064 1812 5304 1814 5544 1816 5784 1819 6024 1820" 
+                    HPOS="1457"
+                    VPOS="1735"
+                    WIDTH="4564"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="1465 1842 1457 1776 2496 1739 2496 1739 6013 1735 6021 1817 6017 1825 2247 1825 1465 1854"/></Shape>
+	    <String CONTENT="beschechē ist in biwesen des lùtpriesters und unser driger, obgen̄t, von beiden teiln darzuͦ gebetten. ✳ ✳ und wir, dieselben drig, obgen̄t, ✳ habent ouch daruf als frùntlich mittler beiderteiln"
+                    HPOS="1457"
+                    VPOS="1735"
+                    WIDTH="4564"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1516045925152_4l8"
+                    
+                    BASELINE="1468 1896 1703 1886 1939 1876 2174 1869 2410 1863 2645 1858 2881 1855 3117 1852 3352 1852 3588 1852 3823 1852 4059 1852 4294 1854 4530 1856 4766 1858 5001 1861 5231 1878 5466 1880 5708 1870 5944 1872" 
+                    HPOS="1457"
+                    VPOS="1792"
+                    WIDTH="4486"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1465 1895 1457 1825 2239 1792 2243 1792 5935 1796 5943 1870 5935 1878 2910 1874 2611 1899 2611 1899 2607 1899 2222 1878 2046 1903 2046 1903 2046 1903 1465 1907"/></Shape>
+	    <String CONTENT="halb darin gerett und gesuͦcht sovil, ✳ das wir si beideteil ✳ der sachhalb guͤtlich geeint habent als hernach stat. und namlich also ✳ der lùtpriester sol das mùrli in siner cost machē, also"
+                    HPOS="1457"
+                    VPOS="1792"
+                    WIDTH="4486"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1516045925152_4l9"
+                    
+                    BASELINE="1464 1948 1699 1935 1935 1924 2175 1921 2411 1915 2643 1904 2879 1900 3115 1898 3351 1898 3587 1898 3822 1898 4058 1900 4294 1902 4530 1905 4766 1908 5002 1910 5238 1914 5476 1926 5712 1928 5946 1918" 
+                    HPOS="1453"
+                    VPOS="1837"
+                    WIDTH="4490"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="1461 1944 1453 1878 3413 1837 3418 1837 5935 1850 5943 1915 5935 1927 3422 1915 1461 1956"/></Shape>
+	    <String CONTENT="er sol es lassen oben abnemen soverˀ das bresthaft und notdurftig ist, ✳ und den̄ ufmuren als hoch die tùrpfosten sind und die tùr pfosten von steinwerck, ob er die gehaben mag,"
+                    HPOS="1453"
+                    VPOS="1837"
+                    WIDTH="4490"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1516045925152_4l10"
+                    
+                    BASELINE="1472 1998 1707 1986 1943 1976 2178 1966 2414 1960 2649 1954 2885 1950 3121 1948 3356 1948 3592 1948 3827 1948 4063 1950 4298 1952 4534 1954 4770 1957 5005 1960 5241 1962 5476 1964 5712 1966 5948 1966" 
+                    HPOS="1461"
+                    VPOS="1887"
+                    WIDTH="4486"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="1469 1997 1461 1923 2615 1891 2615 1891 5935 1887 5947 1964 5943 1972 2595 1972 1469 2009"/></Shape>
+	    <String CONTENT="oder von eichinen holtz ✳ darin machen, ✳ do die tùr jetz stat oder im komlich ist, ✳ ouch den̄ das mùrli ob der tùr ✳ und allenthalben ✳ mitt ziegeln tecken, ✳ bestechen, ✳ bewerfen"
+                    HPOS="1461"
+                    VPOS="1887"
+                    WIDTH="4486"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1516045925152_4l11"
+                    
+                    BASELINE="1474 2046 1711 2035 1948 2025 2185 2016 2422 2010 2659 2006 2896 2004 3133 2002 3370 2000 3607 2000 3844 2002 4081 2002 4318 2004 4555 2006 4792 2010 5029 2012 5266 2014 5503 2014 5740 2016 5978 2016" 
+                    HPOS="1465"
+                    VPOS="1944"
+                    WIDTH="4511"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="1473 2042 1465 1977 2185 1944 2189 1944 5972 1944 5976 2013 5968 2030 2763 2026 1473 2058"/></Shape>
+	    <String CONTENT="und nach aller notdurft usmachen lassen ✳ und dānethin in eren haben, ✳ alles in siner cost. ✳ und daran sond unser gnedig frowen im zuͦ hilf durch sin bitt, ✳ fruntschaft,"
+                    HPOS="1465"
+                    VPOS="1944"
+                    WIDTH="4511"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1516045925152_4l12"
+                    
+                    BASELINE="1476 2098 1711 2086 1946 2078 2181 2071 2416 2066 2651 2062 2886 2058 3121 2056 3356 2056 3591 2056 3826 2056 4061 2058 4296 2060 4531 2062 4766 2064 5001 2066 5236 2069 5471 2072 5706 2074 5942 2076" 
+                    HPOS="1465"
+                    VPOS="1989"
+                    WIDTH="4474"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="1473 2095 1465 2026 3266 1989 3270 1989 5935 2005 5939 2075 5931 2087 3303 2075 1473 2108"/></Shape>
+	    <String CONTENT="liebe ✳ und deheins rechten willen noch anders ✳ schencken und geben vier guldin oder drig guldin und zwen mùtt kernen, wedˀs unsˀr frowen oder ir amptlùt wellent."
+                    HPOS="1465"
+                    VPOS="1989"
+                    WIDTH="4474"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1516045925152_4l13"
+                    
+                    BASELINE="1470 2144 1705 2134 1940 2128 2175 2121 2410 2116 2645 2112 2880 2110 3116 2108 3351 2115 3586 2115 3821 2108 4056 2110 4291 2112 4527 2114 4762 2116 4997 2118 5232 2122 5467 2124 5702 2126 5938 2128" 
+                    HPOS="1461"
+                    VPOS="2042"
+                    WIDTH="4474"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1469 2140 1461 2075 3692 2042 3696 2042 5931 2054 5935 2124 5927 2136 3700 2124 1469 2157"/></Shape>
+	    <String CONTENT="und das sol ouch unsern frowen und irm gotzhus an dem instrument, so si vom lùtpriester habent, und in allweg an irem rechten gantz unvˀgriffen und aͧn schadē sin"
+                    HPOS="1461"
+                    VPOS="2042"
+                    WIDTH="4474"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1516045925152_4l14"
+                    
+                    BASELINE="1470 2192 1707 2186 1944 2179 2182 2174 2419 2170 2656 2166 2894 2163 3131 2161 3368 2160 3606 2160 3843 2160 4081 2160 4329 2159 4566 2161 4793 2166 5030 2170 5267 2174 5505 2178 5742 2182 5980 2186" 
+                    HPOS="1461"
+                    VPOS="2099"
+                    WIDTH="4515"
+                    HEIGHT="2817">
+            <Shape><Polygon POINTS="1469 2189 1461 2120 5968 2099 5976 2185 5972 4912 1469 4916"/></Shape>
+	    <String CONTENT="und bliben, ✳ den̄ das instrument sol nùtzit des minder im sinen creften bestan und unser frowen deshalben bi irm rechten beliben als dahar alles ungenvarlich. ✳ und"
+                    HPOS="1461"
+                    VPOS="2099"
+                    WIDTH="4515"
+                    HEIGHT="2817"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1516045925152_4l15"
+                    
+                    BASELINE="1454 2246 1689 2238 1925 2232 2161 2228 2397 2222 2632 2218 2868 2216 3104 2214 3340 2212 3576 2210 3811 2210 4047 2210 4283 2212 4519 2214 4755 2216 4990 2220 5226 2223 5462 2228 5698 2232 5934 2238" 
+                    HPOS="1444"
+                    VPOS="2144"
+                    WIDTH="4487"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="1453 2243 1444 2177 3712 2144 3716 2144 5927 2169 5931 2234 5927 2247 3716 2230 1453 2251"/></Shape>
+	    <String CONTENT="des zuͦ urkùnd habent wir, obgen̄ sprecher, dis unsers spruchs unsern gnedigen frowen von Kùngsfelden uff beger ir amptlùten disen brief, mitt unser, Niclaus Frickers"
+                    HPOS="1444"
+                    VPOS="2144"
+                    WIDTH="4487"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1516045925152_4l16"
+                    
+                    BASELINE="1486 2301 1721 2295 1957 2289 2193 2285 2428 2281 2664 2277 2900 2275 3135 2273 3389 2283 3625 2281 3842 2269 4078 2271 4314 2271 4549 2273 4785 2277 5021 2281 5256 2285 5492 2291 5728 2298 5964 2307" 
+                    HPOS="1481"
+                    VPOS="2214"
+                    WIDTH="4479"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="1485 2300 1481 2214 5955 2218 5960 2304 5955 2333 5534 2337 5530 2337 5530 2337 5526 2337 5526 2337 5513 2333 5468 2316 5296 2333 5219 2337 5215 2337 5215 2337 5215 2337 5210 2337 5210 2337 5194 2329 5161 2316 5075 2329 5026 2337 5026 2337 5022 2337 5022 2337 5022 2337 5018 2337 4993 2329 4936 2312 4879 2329 4850 2337 4846 2337 4846 2337 4846 2341 4441 2341 4437 2337 4437 2337 4379 2325 4199 2288 1485 2308"/></Shape>
+	    <String CONTENT="und Clausen Schmids, angehenckten insigeln, von unser driger wegen, vorgenēpt, doch uns und unsˀn erben aͧn schaden, ✳ offenlich vˀsigelt ✳ geben morndes nach santt"
+                    HPOS="1481"
+                    VPOS="2214"
+                    WIDTH="4479"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1516045925152_4l17"
+                    
+                    BASELINE="1468 2352 1611 2346 1755 2341 1899 2336 2043 2332 2187 2330 2331 2328 2475 2326 2619 2324 2763 2322 2906 2322 3050 2322 3194 2320 3338 2320 3482 2320 3626 2320 3770 2318 3914 2318 4058 2316 4202 2316" 
+                    HPOS="1457"
+                    VPOS="2292"
+                    WIDTH="2742"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="1465 2349 1457 2304 4195 2292 4199 2312 4191 2382 4027 2361 3860 2386 3860 2386 3856 2386 3856 2386 3856 2386 3851 2386 3851 2386 3847 2386 3847 2386 3815 2361 3524 2390 3524 2390 3520 2390 3520 2390 3516 2390 3413 2361 3327 2390 3323 2390 3323 2390 3323 2390 3319 2390 3319 2390 3315 2390 3176 2353 3020 2353 2758 2398 2758 2398 2754 2398 2754 2398 2754 2398 2750 2398 2750 2398 2750 2398 2677 2361 2378 2361 2226 2382 2226 2382 2222 2382 2222 2382 2079 2365 2022 2406 2022 2406 2018 2406 2018 2406 2013 2406 2013 2406 2013 2406 2009 2406 2009 2406 2005 2406 1866 2370 1764 2410 1764 2410 1760 2410 1760 2410 1760 2410 1756 2410 1756 2410 1616 2394 1465 2419"/></Shape>
+	    <String CONTENT="Johans tag ze sùngichten, do man zalt von Cristi gebùrt vierzechenhundertsibenzigundein jar. ✳"
+                    HPOS="1457"
+                    VPOS="2292"
+                    WIDTH="2742"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

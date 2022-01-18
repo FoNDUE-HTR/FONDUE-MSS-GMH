@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>U-17_0797_01_r.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="6451"
+          HEIGHT="4795"
+          PHYSICAL_IMG_NR="128"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6451"
+                  HEIGHT="4795">
+        
+        <TextBlock HPOS="705"
+                   VPOS="660"
+                   WIDTH="4348"
+                   HEIGHT="2328"
+                   ID="region_1514666039334_4"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="705 660 5053 660 5053 2988 705 2988"/></Shape>
+          
+          
+          <TextLine ID="region_1514666039334_4l1"
+                    
+                    BASELINE="862 792 1073 795 1284 798 1496 800 1707 800 1919 802 2134 818 2346 818 2553 802 2765 800 2976 799 3188 798 3399 796 3611 792 3822 790 4034 786 4245 784 4457 780 4668 776 4880 772" 
+                    HPOS="859"
+                    VPOS="687"
+                    WIDTH="4017"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="859 791 859 699 1334 699 1334 699 1554 727 1814 707 1814 707 1818 707 1818 707 1934 723 1970 699 1974 699 1974 699 1974 699 1978 699 1978 699 1982 699 1982 699 1982 699 1986 699 2066 727 2482 727 2825 723 2921 695 2925 695 2925 695 2929 695 2929 695 2929 695 2933 695 3013 719 3197 695 3197 695 3201 695 3201 695 3201 695 3277 711 3305 691 3309 687 3313 687 3313 687 3313 687 3317 687 3317 687 3321 687 3321 687 3321 687 3325 687 3341 691 3417 715 4864 691 4876 771 4872 803 859 823"/></Shape>
+	    <String CONTENT="Wir, nach benemptē Ludwig Dahinden von Brugg, wonende zuͤ Coͤln, hoptgûlt, und Hanns Schäffer, burgˀ zuͤ Brugg, ✳ mittgûlt in diser sach, bekennē offenlich mitt disem brieff,"
+                    HPOS="859"
+                    VPOS="687"
+                    WIDTH="4017"
+                    HEIGHT="136"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l3"
+                    
+                    BASELINE="814 842 1027 847 1241 850 1455 852 1668 854 1882 856 2097 868 2312 868 2526 868 2737 856 2950 854 3164 852 3378 850 3591 848 3805 845 4019 842 4232 840 4446 836 4660 832 4874 828" 
+                    HPOS="807"
+                    VPOS="779"
+                    WIDTH="4065"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="811 839 811 783 2166 799 4860 779 4872 827 4864 875 807 871"/></Shape>
+	    <String CONTENT="das wir von den ersamen Hannsen Strebel von Lupffen, Henslin Waͤchter von Windisch und Hannsen Bluͤmen von Bira, ✳ dennzümal kilchenpflaͤgern des gotzhus unnser liebē fròwen"
+                    HPOS="807"
+                    VPOS="779"
+                    WIDTH="4065"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l4"
+                    
+                    BASELINE="822 896 1033 902 1244 906 1456 910 1667 912 1878 914 2090 925 2301 925 2512 916 2724 914 2935 912 3147 910 3358 908 3569 906 3781 904 3992 900 4203 898 4415 896 4626 893 4838 890" 
+                    HPOS="819"
+                    VPOS="835"
+                    WIDTH="4017"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="819 895 819 839 2829 855 4824 835 4836 887 4832 927 819 939"/></Shape>
+	    <String CONTENT="zuͤ Windisch, ✳ bar ingenomē und empfangē haben ✳ zwentzig Rinsch guldin. ✳ und habend dar umb den jetzgenemptē des gotzhus pflaͤgern ✳ zuͦ handen desselben gotzhus Windisch ✳ eins"
+                    HPOS="819"
+                    VPOS="835"
+                    WIDTH="4017"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l5"
+                    
+                    BASELINE="812 955 1024 961 1238 962 1450 966 1662 970 1875 972 2087 974 2299 974 2511 974 2723 972 2936 971 3148 977 3360 974 3572 964 3784 962 3997 960 4209 956 4421 954 4633 952 4846 950" 
+                    HPOS="807"
+                    VPOS="899"
+                    WIDTH="4037"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="811 951 807 907 4832 899 4844 947 4840 994 811 994"/></Shape>
+	    <String CONTENT="uffrechten, redlichen, ungevˀlichen, staͤten kouffs ✳ fûr unns und unnser ✳ beider erben gemeinlich und unverscheidenlich ✳ vˀkoufft und ze kouffen geben ✳ einen guldin geltz, ouch Rinschen"
+                    HPOS="807"
+                    VPOS="899"
+                    WIDTH="4037"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l6"
+                    
+                    BASELINE="832 1000 1043 1007 1255 1015 1466 1020 1678 1024 1889 1028 2101 1030 2313 1032 2524 1032 2736 1032 2947 1030 3159 1030 3448 1030 3660 1028 3794 1022 4005 1020 4217 1017 4428 1014 4640 1012 4852 1008" 
+                    HPOS="827"
+                    VPOS="955"
+                    WIDTH="4021"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="831 998 831 955 3341 974 3485 955 3501 955 3501 955 3505 955 3505 955 3509 955 3513 955 3585 974 3781 955 3809 955 3813 955 4840 958 4848 1006 4844 1038 3713 1062 3709 1062 3709 1062 3553 1042 3445 1062 3445 1062 3441 1062 827 1030"/></Shape>
+	    <String CONTENT="gengen und gaͤben, ✳ den wir und unnser erben ✳ dem genemptē gotzhus Windisch ✳ und sinen pflaͤgern, ✳ welich die je sind, ✳ hinfùr alle jar je uff sant Verenen tag ✳ davon zuͤ rechtem"
+                    HPOS="827"
+                    VPOS="955"
+                    WIDTH="4021"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l7"
+                    
+                    BASELINE="826 1054 1037 1063 1248 1070 1459 1077 1671 1082 1882 1086 2093 1088 2304 1090 2516 1090 2727 1090 2938 1090 3149 1088 3361 1086 3572 1084 3783 1082 3994 1078 4206 1076 4417 1072 4628 1068 4840 1064" 
+                    HPOS="819"
+                    VPOS="1002"
+                    WIDTH="4017"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="823 1050 823 1002 2178 1030 4824 1014 4836 1062 4832 1098 3984 1098 3809 1122 3809 1122 3805 1122 3805 1122 3641 1098 3573 1118 3569 1118 3569 1118 3569 1122 2174 1122 2170 1118 819 1090"/></Shape>
+	    <String CONTENT="zins und nach soͤlichs zinsz, recht und gewonheit ✳ bezaln, ✳ waͤren und antwurten ✳ soͤllen und wellen ✳ gon Windisch, in iren sichern gewallt, ✳ an iren kosten und schaden, ✳ fûr all"
+                    HPOS="819"
+                    VPOS="1002"
+                    WIDTH="4017"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l8"
+                    
+                    BASELINE="832 1110 1045 1120 1258 1126 1472 1133 1685 1138 1898 1142 2112 1146 2325 1148 2538 1148 2753 1155 2966 1155 3177 1158 3390 1158 3605 1142 3819 1140 4032 1136 4245 1133 4459 1130 4672 1126 4886 1122" 
+                    HPOS="827"
+                    VPOS="1058"
+                    WIDTH="4057"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="831 1106 831 1058 2214 1086 4876 1070 4884 1118 4880 1154 2210 1174 2206 1174 827 1142"/></Shape>
+	    <String CONTENT="mengklichs verhefften, verbieten und entwerē, ✳ fûr krieg, aucht und bann ✳ und all ander fûrwort und intrag ✳ und des zuͤ güter sicherheit ✳ hab ich, Ludwig Dahinden, der hopt-"
+                    HPOS="827"
+                    VPOS="1058"
+                    WIDTH="4057"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l9"
+                    
+                    BASELINE="816 1164 1031 1174 1246 1182 1461 1190 1676 1195 1891 1200 2106 1202 2322 1204 2537 1206 2752 1206 2967 1206 3182 1204 3397 1215 3613 1212 3828 1198 4043 1194 4258 1191 4473 1188 4688 1183 4904 1178" 
+                    HPOS="811"
+                    VPOS="1122"
+                    WIDTH="4089"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="815 1162 815 1122 2118 1142 3477 1126 3481 1126 3481 1126 3597 1146 3809 1126 3809 1126 3813 1126 3813 1126 3817 1126 3896 1146 4892 1126 4900 1174 4896 1214 4244 1214 4244 1214 4192 1234 4192 1234 4188 1234 4188 1234 4188 1234 4184 1234 3721 1218 3569 1238 3569 1238 3565 1238 811 1214"/></Shape>
+	    <String CONTENT="gûllt, ✳ dem vˀmelten gotzhus Windisch und sinen pflaͤgˀn ✳ gegenwûrtigē und kûnfftigen ✳ zu rechtem behafftem underpfand, ✳ das vor niemant, ✳ dann als hernach stät, ✳ hafft noch vˀbunden"
+                    HPOS="811"
+                    VPOS="1122"
+                    WIDTH="4089"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l10"
+                    
+                    BASELINE="806 1218 1017 1228 1229 1236 1441 1244 1653 1250 1865 1254 2077 1258 2289 1261 2501 1262 2713 1264 2946 1270 3158 1268 3348 1262 3560 1260 3772 1256 3984 1254 4196 1250 4408 1246 4620 1242 4832 1236" 
+                    HPOS="799"
+                    VPOS="647"
+                    WIDTH="4029"
+                    HEIGHT="643">
+            <Shape><Polygon POINTS="803 1214 1063 647 4828 647 4828 1234 4824 1270 2570 1290 2566 1290 1418 1282 1418 1282 1418 1282 1414 1282 1414 1282 1414 1282 1370 1262 1298 1282 1294 1282 1294 1282 1290 1282 1290 1282 1290 1282 1287 1282 1203 1254 799 1250"/></Shape>
+	    <String CONTENT="ist, ✳ ingeben und versetzt ✳ min vaͤtterlich erb, ✳ ist namlich anderthalb hundert guldin hoptgùtz ✳ und achthalb guldin geltz jerlich davon uff sant Verenē tag vallend, so ich hab uff"
+                    HPOS="799"
+                    VPOS="647"
+                    WIDTH="4029"
+                    HEIGHT="643"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l11"
+                    
+                    BASELINE="816 1272 1031 1283 1247 1294 1463 1302 1678 1308 1894 1314 2110 1318 2325 1320 2541 1322 2757 1322 2972 1322 3188 1322 3404 1320 3619 1316 3835 1314 4051 1310 4266 1306 4482 1302 4698 1298 4914 1294" 
+                    HPOS="811"
+                    VPOS="647"
+                    WIDTH="4101"
+                    HEIGHT="703">
+            <Shape><Polygon POINTS="815 1270 815 647 4912 651 4912 1290 4908 1326 3261 1350 3257 1350 811 1310"/></Shape>
+	    <String CONTENT="fûnffhundert guldin hoptguͤts ✳ und zwentzig und fûnf guldin gelltz davon uff der herschafft Schenkembˀg, ✳ darumb der ersam, wisz Cünrat Arnold, schulth̄z zuͤ Brugg, ✳ den hoptbrieff,"
+                    HPOS="811"
+                    VPOS="647"
+                    WIDTH="4101"
+                    HEIGHT="703"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l12"
+                    
+                    BASELINE="820 1324 1036 1337 1252 1348 1468 1356 1684 1364 1900 1369 2116 1374 2335 1391 2551 1393 2764 1378 2981 1378 3197 1378 3413 1376 3629 1374 3845 1370 4061 1366 4277 1364 4493 1360 4709 1356 4926 1352" 
+                    HPOS="815"
+                    VPOS="1278"
+                    WIDTH="4109"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="819 1322 819 1278 1586 1314 3205 1322 4912 1306 4924 1350 4920 1386 3313 1406 3309 1406 815 1362"/></Shape>
+	    <String CONTENT="darûber wisende, ✳ in pfands wise umb sechsthalb guldin geltz ✳ hinder im̄ hät, ✳ nach innhallt ✳ eins brieffs umb minē teil, ✳ die anderthalbhundˀt guldin höptgütz ✳ und die achthalb guld₎"
+                    HPOS="815"
+                    VPOS="1278"
+                    WIDTH="4109"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l13"
+                    
+                    BASELINE="824 1382 1039 1395 1255 1405 1471 1413 1686 1420 1902 1426 2118 1430 2333 1432 2549 1434 2765 1434 2980 1434 3196 1434 3412 1432 3627 1430 3843 1426 4059 1423 4274 1420 4490 1416 4706 1412 4922 1408" 
+                    HPOS="819"
+                    VPOS="1338"
+                    WIDTH="4101"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="823 1378 823 1338 1974 1366 3713 1358 3717 1358 3717 1358 3721 1358 3721 1358 3721 1358 3765 1378 3904 1358 3904 1358 3908 1358 3908 1358 3908 1358 4024 1378 4908 1362 4920 1406 4916 1442 4536 1466 4532 1466 4532 1466 4276 1442 4236 1466 4232 1466 4232 1466 4228 1466 4228 1466 4228 1466 4224 1466 4224 1466 4020 1446 3936 1466 3932 1466 3932 1466 3928 1466 3928 1466 3673 1446 3569 1470 3565 1470 3565 1470 3561 1470 3561 1470 3561 1470 3557 1470 3485 1446 3169 1470 3165 1470 3165 1470 3165 1470 3161 1470 3161 1470 3161 1470 3121 1450 1986 1462 1982 1462 1422 1446 1422 1446 1422 1446 1418 1446 1418 1446 1370 1422 1366 1422 1346 1422 1199 1442 1199 1442 1195 1442 819 1418"/></Shape>
+	    <String CONTENT="geltz, darumb wisende, ✳ den ich herumb hinder obgen̄ kilchenpflegˀ und das gotzhus Windisch gelegt hab. ✳ zuͤ noch merer sicherheit ✳ haben wir, der houptgùlt und mittgûlt, ✳ mitt unns"
+                    HPOS="819"
+                    VPOS="1338"
+                    WIDTH="4101"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l14"
+                    
+                    BASELINE="805 1454 1021 1466 1245 1460 1462 1468 1678 1476 1895 1481 2112 1486 2329 1489 2545 1490 2762 1492 2979 1492 3196 1490 3412 1490 3629 1488 3846 1484 4063 1482 4279 1478 4496 1474 4713 1470 4930 1466" 
+                    HPOS="803"
+                    VPOS="1398"
+                    WIDTH="4125"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="803 1450 803 1398 1554 1398 1554 1398 1578 1398 2138 1430 3509 1414 3513 1414 3513 1414 3517 1414 3517 1414 3577 1434 4920 1406 4928 1462 4924 1498 3633 1522 3629 1522 3629 1522 3525 1502 2154 1518 2150 1518 1854 1498 1790 1494 803 1494"/></Shape>
+	    <String CONTENT="zuͤ rechtem bûrgen versetzt ✳ den bescheidnen Heinrich Etterlin, burgern zuͤ Brugg, ✳ in saͤlichen worten, ✳ wo wir oder unnser erbē ✳ hinfûr dheins jars ✳ dem obgenemptē gotzhus zuͤ Windisch"
+                    HPOS="803"
+                    VPOS="1398"
+                    WIDTH="4125"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l15"
+                    
+                    BASELINE="816 1492 1031 1504 1246 1514 1461 1524 1676 1530 1891 1536 2106 1540 2321 1544 2536 1546 2751 1546 2966 1548 3181 1546 3396 1545 3611 1544 3826 1540 4041 1538 4256 1536 4471 1532 4686 1530 4902 1526" 
+                    HPOS="811"
+                    VPOS="1446"
+                    WIDTH="4089"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="815 1490 815 1446 1290 1446 1290 1446 1290 1446 1294 1446 1302 1446 1390 1474 3329 1470 3333 1470 3333 1470 3337 1470 3401 1490 4888 1474 4900 1522 4896 1558 3413 1578 3409 1578 3409 1578 3405 1578 3405 1578 3405 1578 3361 1558 1838 1566 1834 1566 811 1530"/></Shape>
+	    <String CONTENT="oder sinen pflegˀn ✳ den vˀmelten guldin geltz uff sant Verenē tag ✳ oder darnach in den nechstē acht tagen ungevˀlich ✳ nitt usrichten noch antwurtē, ✳ wenn den̄ wir, der mittgûlt un̄"
+                    HPOS="811"
+                    VPOS="1446"
+                    WIDTH="4089"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l16"
+                    
+                    BASELINE="800 1544 1014 1556 1229 1567 1443 1576 1658 1584 1873 1590 2087 1609 2302 1613 2501 1614 2715 1616 2946 1602 3160 1602 3375 1600 3590 1598 3804 1596 4019 1594 4234 1592 4448 1589 4683 1607 4898 1605" 
+                    HPOS="795"
+                    VPOS="1502"
+                    WIDTH="4101"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="799 1542 799 1502 2733 1546 4888 1542 4896 1602 4892 1626 3001 1630 2997 1630 795 1574"/></Shape>
+	    <String CONTENT="der bûrg, sampt oder sunders ✳ von inē gemant wˀden ✳ ze hus, zehoff ✳ oder under augē ✳ von mund, mitt botten oder brieffen, ✳ so söllen wir darnach in acht tagen den nechsten ✳ bi unnsˀn"
+                    HPOS="795"
+                    VPOS="1502"
+                    WIDTH="4101"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l17"
+                    
+                    BASELINE="816 1600 1030 1613 1245 1622 1459 1632 1674 1638 1889 1644 2100 1661 2315 1665 2533 1654 2747 1656 2962 1656 3176 1656 3391 1654 3606 1652 3820 1650 4035 1648 4250 1646 4464 1644 4679 1642 4894 1640" 
+                    HPOS="811"
+                    VPOS="1562"
+                    WIDTH="4081"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="815 1598 815 1562 4876 1610 4892 1638 4884 1674 3944 1670 3936 1670 3665 1690 3661 1690 3661 1690 3421 1666 3421 1666 3417 1666 3285 1686 3285 1686 3281 1686 811 1642"/></Shape>
+	    <String CONTENT="truwen in eides wise ✳ ze Brugg in der statt in eins offnen wirtz hus, unns in der manung benempt, ✳ heruff recht, offen, gewonlich giselschafft ✳ hallten und leisten, ✳ nach leistung, sitt und ge¬"
+                    HPOS="811"
+                    VPOS="1562"
+                    WIDTH="4081"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l18"
+                    
+                    BASELINE="816 1658 1029 1668 1243 1678 1457 1687 1671 1693 1884 1699 2098 1703 2312 1706 2526 1708 2740 1710 2953 1710 3167 1710 3381 1710 3595 1708 3809 1706 4022 1704 4236 1702 4450 1700 4664 1698 4878 1696" 
+                    HPOS="811"
+                    VPOS="1606"
+                    WIDTH="4065"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="815 1654 815 1606 2442 1646 4868 1646 4876 1694 4872 1726 3661 1746 3657 1746 811 1698"/></Shape>
+	    <String CONTENT="wonheit. ✳ si mogē ouch nach einē mannot dem nechsten nach der manūg ✳ das vorgemelt ir underpfand, ✳ die anderthalbhundert guldin hoptgùtz mitt irem jerlichem zins ✳ und wo inen"
+                    HPOS="811"
+                    VPOS="1606"
+                    WIDTH="4065"
+                    HEIGHT="140"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l19"
+                    
+                    BASELINE="808 1716 1022 1726 1236 1736 1450 1744 1664 1750 1878 1754 2094 1770 2308 1774 2520 1764 2734 1764 2948 1764 3162 1764 3376 1762 3590 1762 3804 1760 4020 1775 4234 1773 4446 1754 4660 1752 4874 1750" 
+                    HPOS="803"
+                    VPOS="1666"
+                    WIDTH="4069"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="807 1714 807 1666 3888 1714 4864 1698 4872 1746 4868 1790 1914 1790 1910 1786 1554 1782 1554 1782 1554 1782 1550 1782 1550 1782 1550 1782 1510 1762 1378 1782 1378 1782 1374 1782 1374 1782 1374 1782 1370 1782 1287 1758 1099 1774 1099 1774 1095 1774 803 1750"/></Shape>
+	    <String CONTENT="daran abgieng ✳ min, des obgenemptē mittgûlten, und minˀ erben güter, ✳ ligende und varende, ✳ mitt gericht und recht, geistlichem oder weltlichem, oder sussz ✳ doch dem obgen̄ schulthn̄"
+                    HPOS="803"
+                    VPOS="1666"
+                    WIDTH="4069"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l20"
+                    
+                    BASELINE="808 1787 1022 1797 1236 1805 1450 1813 1664 1819 1878 1823 2092 1827 2306 1829 2520 1842 2734 1844 2948 1833 3162 1833 3376 1831 3590 1831 3804 1829 4018 1827 4232 1825 4446 1825 4660 1823 4874 1821" 
+                    HPOS="803"
+                    VPOS="1722"
+                    WIDTH="4069"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="807 1786 807 1722 1091 1742 1287 1726 1287 1726 1290 1726 1290 1726 1290 1726 1290 1726 1294 1726 1378 1750 1510 1730 1510 1730 1514 1730 2358 1758 4860 1758 4872 1818 4868 1838 3417 1854 3413 1854 803 1810"/></Shape>
+	    <String CONTENT="ze Brugg an sinē rechten unvˀgriffen, ✳ angriffen und sölich pfand ✳ vˀkouffen, vˀgantē, versetzē ✳ oder selbs ansich ziechen, ✳ so lang bis inen umb irn gevallnē zins ✳ mittsampt allem"
+                    HPOS="803"
+                    VPOS="1722"
+                    WIDTH="4069"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l21"
+                    
+                    BASELINE="811 1846 1024 1855 1238 1862 1451 1870 1665 1875 1878 1879 2092 1882 2306 1884 2522 1897 2736 1897 2946 1886 3160 1886 3373 1886 3587 1884 3801 1884 4014 1882 4228 1882 4441 1880 4655 1880 4869 1880" 
+                    HPOS="803"
+                    VPOS="1778"
+                    WIDTH="4065"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="807 1842 807 1778 955 1802 1167 1782 1167 1782 1171 1782 1730 1814 4860 1814 4868 1878 4860 1898 4248 1898 4132 1917 4132 1917 4128 1917 3309 1890 3077 1910 3073 1910 1378 1878 1306 1894 1302 1894 1302 1894 1298 1894 803 1862"/></Shape>
+	    <String CONTENT="kosten daruff gangen ✳ gnüg beschicht, ane irn schaden ✳ und ab in diser sach vor der losung, hernach begriffen, ✳ under unns, dem mittgûlten und bûrgen, eynicher mitt dem tod ab"
+                    HPOS="803"
+                    VPOS="1778"
+                    WIDTH="4065"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l22"
+                    
+                    BASELINE="816 1890 1031 1898 1246 1906 1461 1912 1676 1918 1891 1922 2106 1926 2321 1930 2536 1932 2753 1941 2968 1941 3181 1932 3396 1932 3611 1932 3826 1930 4041 1928 4256 1926 4471 1924 4686 1922 4902 1920" 
+                    HPOS="811"
+                    VPOS="1506"
+                    WIDTH="4089"
+                    HEIGHT="467">
+            <Shape><Polygon POINTS="815 1886 1338 1506 4900 1510 4900 1917 4896 1953 4516 1973 4512 1973 4512 1973 4388 1953 4384 1953 4352 1953 2865 1961 2861 1961 811 1925"/></Shape>
+	    <String CONTENT="gieng oder unnûtz wurd, ✳ die söllent ich, der obgen̄t hoptgûlt, und min erben dar nach im̄ nechsten manot, wir, werden darūb ervordert oder nitt, ✳ nach aller notdurfft und in glichˀ"
+                    HPOS="811"
+                    VPOS="1506"
+                    WIDTH="4089"
+                    HEIGHT="467"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l23"
+                    
+                    BASELINE="801 1964 1019 1974 1243 1969 1461 1976 1679 1982 1897 1988 2115 1992 2333 1994 2551 1997 2769 1998 2987 2000 3205 2000 3423 2000 3652 2006 3870 2006 4077 1996 4295 1994 4513 1994 4731 1992 4949 1992" 
+                    HPOS="795"
+                    VPOS="1898"
+                    WIDTH="4153"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="799 1961 799 1898 3221 1933 4940 1925 4948 1989 4944 2009 4400 2029 4396 2029 4396 2029 4392 2029 4320 2009 2633 2017 2629 2017 795 1981"/></Shape>
+	    <String CONTENT="form als der oder die abgangnē hafft gewesen sind, ersetzen, ✳ ob ouch hinfûr jemer den obgen̄ koüffern am underpfand ✳ eynicherley abgangs, entwerung, irrung odˀ intrags"
+                    HPOS="795"
+                    VPOS="1898"
+                    WIDTH="4153"
+                    HEIGHT="131"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l24"
+                    
+                    BASELINE="808 2011 1023 2020 1238 2020 1454 2026 1669 2032 1885 2038 2100 2042 2316 2044 2531 2048 2747 2048 2962 2050 3178 2050 3393 2050 3609 2050 3824 2050 4040 2050 4255 2048 4471 2048 4686 2048 4902 2048" 
+                    HPOS="803"
+                    VPOS="1957"
+                    WIDTH="4097"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="807 2009 807 1957 3077 1993 3928 1981 3952 1981 3956 1981 3956 1981 3960 1981 3960 1981 3960 1981 3960 1981 3964 1981 4000 2001 4892 1989 4900 2045 4896 2069 4024 2085 4020 2085 4020 2085 3876 2065 3876 2065 3876 2065 2625 2073 2621 2073 803 2037"/></Shape>
+	    <String CONTENT="begegnote, ✳ von wem oder uss was ursach das beschaͤch, ✳ söllen und wellen wir, hôptgûlt und mittgûlt, und unns₎ erben ✳ gemeinlich und unvˀscheidenlich bessern und"
+                    HPOS="803"
+                    VPOS="1957"
+                    WIDTH="4097"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l25"
+                    
+                    BASELINE="806 2056 1024 2066 1243 2076 1462 2084 1680 2090 1899 2096 2118 2100 2337 2104 2555 2106 2774 2108 2993 2108 3212 2110 3430 2110 3649 2110 3868 2108 4087 2108 4305 2108 4524 2107 4743 2106 4962 2106" 
+                    HPOS="799"
+                    VPOS="647"
+                    WIDTH="4177"
+                    HEIGHT="1514">
+            <Shape><Polygon POINTS="803 2053 1470 647 4976 655 4960 2105 4952 2161 4636 2137 3549 2137 2729 2137 2725 2137 799 2085"/></Shape>
+	    <String CONTENT="si mitt andern sichrern underpfanden ✳ nach redlicher notdurfft, daran si wolhabend sien, ✳ besorgē, ✳ und umb der stuken jetwedˀs ✳ habend si gewalt zuͤ manē und anzegriffen"
+                    HPOS="799"
+                    VPOS="647"
+                    WIDTH="4177"
+                    HEIGHT="1514"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l26"
+                    
+                    BASELINE="808 2110 1026 2122 1245 2132 1463 2140 1682 2148 1898 2165 2116 2170 2338 2160 2557 2164 2775 2166 2994 2166 3212 2166 3431 2168 3650 2168 3868 2166 4087 2166 4306 2166 4524 2168 4743 2168 4962 2170" 
+                    HPOS="807"
+                    VPOS="2057"
+                    WIDTH="4153"
+                    HEIGHT="160">
+            <Shape><Polygon POINTS="807 2109 807 2057 3017 2113 4956 2113 4960 2169 4956 2197 4768 2217 4768 2217 4764 2217 4764 2217 4760 2217 4680 2197 4676 2197 4664 2197 4424 2213 4420 2213 4420 2213 4420 2213 4416 2213 4416 2213 4368 2193 4364 2193 4348 2193 4188 2209 4188 2209 4184 2209 4184 2209 4040 2189 4020 2189 4016 2189 3968 2209 3968 2209 3964 2209 3964 2209 3964 2209 3960 2209 3960 2209 3837 2189 3809 2185 3769 2189 3573 2205 3569 2205 1390 2173 1390 2173 1390 2173 1386 2173 1386 2173 1386 2173 1370 2165 1338 2149 807 2157"/></Shape>
+	    <String CONTENT="glicher wis als umb den zins, ✳ bis inen dar umb volkomen benuͤgen beschicht, mitt sampt dem schaden, daruff gangen, ✳ iren slàchten wortē vor und nach darūb ze glouben,"
+                    HPOS="807"
+                    VPOS="2057"
+                    WIDTH="4153"
+                    HEIGHT="160"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l27"
+                    
+                    BASELINE="791 2181 1008 2193 1225 2201 1442 2209 1659 2217 1876 2221 2093 2226 2311 2229 2528 2231 2745 2233 2962 2235 3179 2235 3396 2235 3614 2235 3831 2235 4048 2235 4265 2235 4482 2235 4699 2235 4917 2237" 
+                    HPOS="783"
+                    VPOS="2129"
+                    WIDTH="4133"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="787 2177 787 2129 4912 2173 4916 2233 4908 2257 1382 2233 1382 2233 1382 2233 1263 2209 1159 2229 1159 2229 1159 2229 1155 2229 1155 2229 1151 2229 1151 2229 1079 2205 931 2221 931 2221 927 2221 927 2221 783 2197"/></Shape>
+	    <String CONTENT="doch so mogen wir, hoptgûlt und mittgûlt, ✳ und unns₎ erben ✳ den gemelten guldin geltz ✳ hinfûr, wenn wir wellen, ✳ wider kouffen und ablösen, ✳ ouch mitt zwentzig"
+                    HPOS="783"
+                    VPOS="2129"
+                    WIDTH="4133"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l28"
+                    
+                    BASELINE="790 2228 1008 2238 1227 2246 1446 2254 1664 2260 1883 2266 2102 2270 2321 2274 2539 2278 2758 2280 2977 2282 3196 2284 3414 2284 3633 2284 3852 2284 4071 2284 4289 2284 4508 2282 4727 2282 4946 2282" 
+                    HPOS="783"
+                    VPOS="2169"
+                    WIDTH="4161"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="787 2225 787 2169 1075 2173 1075 2173 1075 2173 1079 2173 1167 2197 1306 2181 1306 2181 1310 2181 1310 2181 1314 2181 1314 2181 1386 2209 2570 2225 4940 2225 4944 2281 4936 2309 1974 2297 1974 2297 783 2253"/></Shape>
+	    <String CONTENT="guldin hoptgütz und ergangnem zinsz, ✳ des söllen die koüffer unns gestatten ✳ ane widerred. ✳ wir söllen und wellen ouch unnsˀn bûrgen ✳ vor allem kosten un̄ schad₎"
+                    HPOS="783"
+                    VPOS="2169"
+                    WIDTH="4161"
+                    HEIGHT="140"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l29"
+                    
+                    BASELINE="798 2284 1015 2295 1233 2304 1451 2312 1668 2319 1886 2324 2104 2328 2321 2332 2539 2336 2757 2338 2974 2340 3192 2340 3410 2340 3627 2342 3845 2342 4063 2342 4280 2342 4498 2342 4716 2342 4934 2342" 
+                    HPOS="791"
+                    VPOS="2229"
+                    WIDTH="4141"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="795 2281 795 2229 3277 2285 3449 2269 3449 2269 3453 2269 3745 2289 3813 2269 3813 2269 3817 2269 3817 2269 3817 2269 3821 2269 3821 2269 3825 2269 3825 2269 3825 2269 3825 2269 3829 2269 3861 2293 3980 2273 3980 2273 3984 2273 3984 2273 4156 2293 4924 2285 4932 2341 4928 2373 2725 2373 2721 2369 791 2313"/></Shape>
+	    <String CONTENT="diser sach verhüten und ledigen, ✳ gelobent und vˀsprechent daruff ✳ gemeinlich und unvˀscheidenlich ✳ fûr uns und unns₎ erben bi unnsern truwen an eydes statt,"
+                    HPOS="791"
+                    VPOS="2229"
+                    WIDTH="4141"
+                    HEIGHT="144"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l30"
+                    
+                    BASELINE="802 2346 1018 2358 1235 2368 1451 2376 1668 2384 1884 2390 2101 2394 2317 2398 2534 2402 2750 2404 2967 2406 3183 2406 3400 2408 3616 2408 3833 2408 4049 2408 4266 2408 4482 2408 4699 2408 4916 2410" 
+                    HPOS="795"
+                    VPOS="2281"
+                    WIDTH="4117"
+                    HEIGHT="160">
+            <Shape><Polygon POINTS="799 2345 799 2281 1570 2325 4908 2345 4912 2409 4904 2429 4132 2421 4124 2421 3884 2441 3884 2441 3880 2441 3880 2441 3876 2441 3876 2441 3809 2417 3645 2437 3645 2437 3641 2437 3277 2413 3137 2429 3137 2429 3133 2429 1458 2385 1374 2401 1374 2401 1374 2401 1370 2401 1095 2377 1055 2373 1039 2373 951 2393 951 2393 951 2393 947 2393 947 2393 795 2369"/></Shape>
+	    <String CONTENT="dis kouffs recht weren zü sind ✳ und werschafft zü tragend nach recht, ✳ ouch den mitt allem innhalt dis brieffs ✳ war und stät zuͤ hallten und darwider niemˀ zehandelt̄,"
+                    HPOS="795"
+                    VPOS="2281"
+                    WIDTH="4117"
+                    HEIGHT="160"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l31"
+                    
+                    BASELINE="800 2402 1014 2410 1228 2420 1442 2426 1656 2434 1871 2453 2085 2459 2299 2447 2513 2450 2727 2454 2942 2456 3156 2456 3370 2458 3584 2458 3798 2458 4013 2458 4227 2470 4441 2470 4655 2458 4870 2458" 
+                    HPOS="799"
+                    VPOS="2349"
+                    WIDTH="4069"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="799 2401 799 2349 3741 2405 3940 2389 3940 2389 3940 2389 3944 2389 3944 2389 3944 2389 3948 2389 3948 2389 4004 2409 4860 2401 4868 2457 4864 2485 3805 2497 3801 2497 3801 2497 3801 2497 3709 2477 3701 2477 3661 2477 3209 2489 3205 2489 3205 2489 3077 2473 3049 2469 3013 2469 2833 2485 2829 2485 1678 2469 1678 2469 1678 2469 1622 2457 1554 2445 1494 2457 1450 2465 1450 2465 1450 2465 1446 2465 1446 2465 1442 2465 1406 2457 1346 2441 1275 2457 1239 2461 1239 2461 1239 2461 1235 2461 1235 2461 1179 2453 1055 2437 799 2449"/></Shape>
+	    <String CONTENT="zeredent noch ze thünd, ✳ bi verzichung und ûbergebung ✳ gemeinlich und sunderlich alles des, ✳ so zuͤ schirm jemant erdenken, bruchen oder fûr ziechen möcht, ✳ alles"
+                    HPOS="799"
+                    VPOS="2349"
+                    WIDTH="4069"
+                    HEIGHT="148"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l33"
+                    
+                    BASELINE="789 2474 1759 2497 1933 2500 2107 2502 2281 2504 2454 2506 2628 2508 2802 2512 2976 2514 3150 2516 3323 2517 3497 2518 3671 2520 3845 2520 4019 2520 4192 2518 4366 2516 4540 2514 4714 2511 4888 2506" 
+                    HPOS="783"
+                    VPOS="2401"
+                    WIDTH="4101"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="787 2473 787 2401 1235 2429 1338 2409 1338 2409 1338 2409 1342 2409 1342 2409 1594 2441 3221 2461 3441 2437 3441 2437 3441 2437 3445 2437 3445 2437 3445 2437 3445 2437 3541 2457 3709 2445 3709 2445 3713 2445 3713 2445 3717 2445 3717 2445 3785 2469 4876 2457 4884 2505 4880 2541 3509 2549 3505 2549 783 2489"/></Shape>
+	    <String CONTENT="erberlich und ungevˀlich. ✳ ich, Heinrich Etterli, vˀgich der burgschafft, ✳ wie davor von mir gemelt ist, und gelop bi truw, in eyds wise, ✳ der völlenklich nachzekomēt"
+                    HPOS="783"
+                    VPOS="2401"
+                    WIDTH="4101"
+                    HEIGHT="148"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l35"
+                    
+                    BASELINE="782 2529 1556 2548 1740 2550 1924 2554 2109 2558 2293 2562 2477 2564 2662 2568 2846 2570 3030 2574 3215 2575 3399 2576 3583 2578 3768 2578 3952 2578 4136 2576 4321 2574 4505 2572 4689 2568 4874 2562" 
+                    HPOS="771"
+                    VPOS="2457"
+                    WIDTH="4101"
+                    HEIGHT="164">
+            <Shape><Polygon POINTS="779 2525 775 2477 927 2457 927 2457 931 2457 1195 2481 1275 2485 1318 2481 1430 2465 1430 2465 1434 2465 1434 2465 1614 2485 1722 2493 2162 2489 2558 2485 2562 2485 2562 2485 2637 2493 2769 2509 3709 2505 3805 2505 3809 2505 3809 2505 3813 2505 3817 2505 3888 2525 4008 2505 4028 2505 4028 2505 4032 2505 4032 2505 4032 2505 4056 2509 4164 2525 4860 2517 4872 2561 4868 2601 4504 2617 4500 2617 4500 2617 4284 2597 4124 2621 4124 2621 4120 2621 4120 2621 4120 2621 4116 2621 4024 2597 3829 2617 3829 2617 3825 2617 3825 2617 3641 2589 3301 2609 3297 2609 3297 2609 3297 2609 3181 2589 1730 2589 1726 2585 771 2541"/></Shape>
+	    <String CONTENT="àne alles geverd. ✳ und des alles zuͤ wärem urkûnd ✳ hab ich, obgēntˀ Ludwig Dahinden, ✳ der hoptgûlt ✳ erbetten ✳ den ersamen Heinrichen Suter, hoffmeistern zuͤ"
+                    HPOS="771"
+                    VPOS="2457"
+                    WIDTH="4101"
+                    HEIGHT="164"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l36"
+                    
+                    BASELINE="796 2582 1010 2588 1224 2594 1438 2600 1652 2606 1867 2610 2081 2616 2295 2620 2509 2624 2723 2628 2938 2632 3152 2634 3366 2636 3580 2636 3794 2636 4009 2636 4223 2634 4437 2630 4651 2626 4866 2620" 
+                    HPOS="791"
+                    VPOS="2529"
+                    WIDTH="4073"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="795 2581 795 2529 3057 2573 4404 2565 4408 2565 4408 2565 4532 2585 4576 2565 4576 2565 4576 2565 4580 2565 4580 2565 4584 2565 4856 2565 4864 2617 4860 2657 2166 2657 2162 2653 2162 2653 2158 2653 2158 2653 2158 2653 2154 2653 2154 2653 2126 2633 1902 2649 1898 2649 1898 2649 1898 2649 1806 2629 1806 2629 1802 2629 1710 2649 1710 2649 1710 2649 1706 2649 1706 2649 1706 2649 1702 2649 1702 2649 1698 2649 1698 2649 1670 2629 1366 2645 1362 2645 1362 2645 1362 2645 1358 2645 1358 2645 1354 2645 1322 2625 1318 2621 791 2617"/></Shape>
+	    <String CONTENT="Kûngsfeld, ✳ das der sin eigen insigel fûr mich, im̄ und sinen erben unschedlich, offenlich an disen brieff gehenkt hàt. ✳ so haben wir, Hanns Schäffer, der mittgûlt, und"
+                    HPOS="791"
+                    VPOS="2529"
+                    WIDTH="4073"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l37"
+                    
+                    BASELINE="792 2646 1008 2650 1225 2654 1441 2657 1658 2662 1871 2678 2107 2690 2326 2683 2524 2680 2740 2683 2957 2686 3173 2690 3390 2692 3606 2694 3823 2699 4039 2697 4256 2690 4472 2688 4689 2682 4906 2676" 
+                    HPOS="787"
+                    VPOS="2589"
+                    WIDTH="4117"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="791 2645 791 2589 3781 2637 4404 2621 4408 2621 4620 2641 4896 2617 4904 2673 4896 2733 4336 2709 4304 2725 4300 2729 4296 2729 4296 2729 4292 2729 4292 2729 4292 2729 4288 2729 4288 2729 4284 2729 4268 2725 4204 2709 4040 2721 3948 2729 3944 2729 3637 2717 3429 2709 3249 2709 2677 2721 2673 2721 2478 2701 2402 2693 2338 2697 2122 2717 2122 2717 2118 2717 2118 2717 1946 2693 1918 2689 1902 2693 1822 2709 1822 2709 1822 2709 1818 2709 1818 2709 1814 2709 1814 2709 1762 2689 1750 2681 787 2673"/></Shape>
+	    <String CONTENT="Heinrich Etterli, der bûrg, ✳ erbetten den ersamen, wisen Lienharten Grùlich, altschulthn̄ zuͤ Brugg, das der sin eigen insigel f̂rr mich in bûrgen wise, im̄ und sinen erben äne"
+                    HPOS="787"
+                    VPOS="2589"
+                    WIDTH="4117"
+                    HEIGHT="144"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666039334_4l38"
+                    
+                    BASELINE="792 2704 991 2706 1190 2710 1389 2712 1589 2716 1788 2720 1987 2724 2186 2728 2386 2731 2585 2736 2784 2738 2983 2742 3183 2744 3382 2748 3581 2748 3780 2750 3980 2750 4179 2750 4378 2748 4578 2746" 
+                    HPOS="787"
+                    VPOS="2649"
+                    WIDTH="3789"
+                    HEIGHT="172">
+            <Shape><Polygon POINTS="791 2701 791 2649 4572 2693 4576 2745 4572 2785 4376 2821 4376 2821 4372 2821 4372 2821 4372 2821 4368 2821 4284 2797 4104 2821 4104 2821 4100 2821 4100 2821 4100 2821 4096 2821 4096 2821 4040 2797 3825 2817 3825 2817 3821 2817 3821 2817 3817 2817 3817 2817 3817 2817 3745 2785 3737 2781 3645 2785 3201 2805 3197 2805 3197 2805 3197 2805 3193 2805 3193 2805 3193 2805 3149 2781 3133 2773 3105 2781 3045 2801 3041 2801 3041 2801 3037 2801 3037 2801 2857 2781 2741 2769 2713 2781 2657 2805 2657 2805 2653 2805 2653 2805 2653 2809 2514 2809 2510 2805 2210 2801 2210 2801 2210 2801 2206 2801 2206 2801 2206 2801 2202 2801 2170 2781 2162 2773 2134 2781 2078 2793 2074 2793 2074 2793 2070 2793 2070 2793 2066 2793 2066 2793 2066 2793 2062 2793 2042 2777 2014 2761 1938 2777 1906 2785 1906 2785 1906 2785 1902 2785 1902 2785 1850 2777 1706 2757 1626 2777 1598 2785 1594 2785 1594 2785 1590 2785 1590 2785 1590 2785 1586 2785 1558 2777 1474 2753 1370 2777 1346 2781 1346 2781 1346 2781 1342 2781 1342 2781 1302 2777 1111 2749 1051 2773 1051 2773 1047 2773 1047 2773 1047 2777 787 2777"/></Shape>
+	    <String CONTENT="schaden, offenlich hat gehenkt an disen brieff, der geben ist uff sant Verenen tag nach der gepurt Cristi, unnsers hˀren, viertzechenhundtˀ achtzig und zwei jar."
+                    HPOS="787"
+                    VPOS="2649"
+                    WIDTH="3789"
+                    HEIGHT="172"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

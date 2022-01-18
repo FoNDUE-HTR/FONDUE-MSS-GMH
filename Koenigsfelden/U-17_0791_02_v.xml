@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>U-17_0791_02_v.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="4912"
+          HEIGHT="7360"
+          PHYSICAL_IMG_NR="127"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4912"
+                  HEIGHT="7360">
+        
+        <TextBlock HPOS="3844"
+                   VPOS="1695"
+                   WIDTH="421"
+                   HEIGHT="207"
+                   ID="region_1530108668631_240"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="3844 1695 4265 1695 4265 1902 3844 1902"/></Shape>
+          
+          
+          <TextLine ID="line_1530108671976_241"
+                    
+                    BASELINE="3886 1870 4248 1816" 
+                    HPOS="3849"
+                    VPOS="1674"
+                    WIDTH="393"
+                    HEIGHT="251">
+            <Shape><Polygon POINTS="3880 1864 3849 1717 4212 1674 4242 1815 4242 1852 3880 1925"/></Shape>
+	    <String CONTENT="791 a e"
+                    HPOS="3849"
+                    VPOS="1674"
+                    WIDTH="393"
+                    HEIGHT="251"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2668"
+                   VPOS="1710"
+                   WIDTH="170"
+                   HEIGHT="144"
+                   ID="region_1530108678666_242"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="2668 1710 2838 1710 2838 1854 2668 1854"/></Shape>
+          
+          
+          <TextLine ID="line_1530108681199_243"
+                    
+                    BASELINE="2696 1835 2813 1831" 
+                    HPOS="2677"
+                    VPOS="1686"
+                    WIDTH="135"
+                    HEIGHT="239">
+            <Shape><Polygon POINTS="2695 1833 2677 1692 2793 1686 2812 1827 2799 1925 2683 1895"/></Shape>
+	    <String CONTENT="2 ✳"
+                    HPOS="2677"
+                    VPOS="1686"
+                    WIDTH="135"
+                    HEIGHT="239"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2452"
+                   VPOS="3532"
+                   WIDTH="626"
+                   HEIGHT="377"
+                   ID="region_1530108639158_237"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="2452 3532 3078 3532 3078 3909 2452 3909"/></Shape>
+          
+          
+          <TextLine ID="line_1530108644007_238"
+                    
+                    BASELINE="2514 3745 3015 3704" 
+                    HPOS="2492"
+                    VPOS="3557"
+                    WIDTH="522"
+                    HEIGHT="196">
+            <Shape><Polygon POINTS="2511 3741 2492 3557 2996 3563 3014 3698 3008 3735 2511 3753"/></Shape>
+	    <String CONTENT="Staatsarchiv"
+                    HPOS="2492"
+                    VPOS="3557"
+                    WIDTH="522"
+                    HEIGHT="196"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1530108646467_239"
+                    
+                    BASELINE="2586 3840 2971 3813" 
+                    HPOS="2566"
+                    VPOS="3686"
+                    WIDTH="405"
+                    HEIGHT="257">
+            <Shape><Polygon POINTS="2584 3839 2566 3716 2947 3686 2965 3808 2971 3931 2591 3943"/></Shape>
+	    <String CONTENT="AARGAU"
+                    HPOS="2566"
+                    VPOS="3686"
+                    WIDTH="405"
+                    HEIGHT="257"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
