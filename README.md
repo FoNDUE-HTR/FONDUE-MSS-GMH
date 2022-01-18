@@ -1,5 +1,4 @@
-# FoNDUE - MSS - DE
-
+# FoNDUE - MSS - GMH
 
 This repo contains the transcription of german manuscripts.
 
