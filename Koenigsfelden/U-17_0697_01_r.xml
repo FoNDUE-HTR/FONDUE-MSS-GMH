@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>U-17_0697_01_r.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="6935"
+          HEIGHT="4607"
+          PHYSICAL_IMG_NR="60"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6935"
+                  HEIGHT="4607">
+        
+        <TextBlock HPOS="441"
+                   VPOS="268"
+                   WIDTH="5404"
+                   HEIGHT="2324"
+                   ID="region_1514666964785_10"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="497 306 5845 268 5845 2592 441 2592"/></Shape>
+          
+          
+          <TextLine ID="region_1514666964785_10l2"
+                    
+                    BASELINE="484 476 758 480 1033 484 1308 487 1582 490 1857 492 2132 496 2407 498 2681 500 2956 502 3231 502 3506 504 3780 504 4055 506 4330 506 4605 506 4879 506 5154 506 5429 506 5704 506" 
+                    HPOS="476"
+                    VPOS="349"
+                    WIDTH="5226"
+                    HEIGHT="184">
+            <Shape><Polygon POINTS="483 472 483 349 1017 353 1017 353 1017 353 1021 353 1029 353 1159 387 1482 360 1528 357 1532 357 1532 357 1532 357 1559 360 1870 426 2127 426 2388 372 2388 372 2392 372 2392 372 2392 372 2396 372 2557 426 2668 426 3344 395 3348 395 3348 395 3671 433 4181 433 4377 395 4469 376 4469 376 4469 376 4473 376 4473 376 4477 376 4550 395 4673 429 4965 410 4968 410 4968 410 5153 433 5291 403 5345 395 5345 395 5345 395 5349 395 5349 395 5414 406 5598 441 5690 410 5702 502 5694 533 476 502"/></Shape>
+	    <String CONTENT="Wir, dis nachbenempten, nemlich Heinrich von Banmos, diser czyt der fursichtigen, wysen, miner gnedigen herren schultn̄ und raͤten czuͦ Berne vogte und amptman in der graffschafft Lentzburg, und"
+                    HPOS="476"
+                    VPOS="349"
+                    WIDTH="5226"
+                    HEIGHT="184"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l3"
+                    
+                    BASELINE="720 526 985 528 1250 532 1515 534 1780 536 2045 538 2310 540 2575 542 2840 542 3105 544 3370 546 3635 546 3900 548 4165 548 4430 548 4695 550 4960 550 5225 550 5490 550 5756 552" 
+                    HPOS="710"
+                    VPOS="472"
+                    WIDTH="5042"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="718 525 718 472 5748 502 5752 549 5744 579 710 556"/></Shape>
+	    <String CONTENT="Hanns Haberer von Lentzburg, undervogte daselbs, tuͤnd kunt allermenglichem mit disem briefe von der spenn und misshellung wegen, so etliche zithar uferstanden gewesen sint czwùschent den erwirdigen, geistlichen und an¬"
+                    HPOS="710"
+                    VPOS="472"
+                    WIDTH="5042"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l4"
+                    
+                    BASELINE="724 572 986 576 1248 578 1510 580 1773 582 2035 584 2297 584 2560 586 2822 588 3084 588 3347 590 3609 591 3871 592 4134 592 4396 594 4658 594 4921 594 5183 594 5445 594 5708 594" 
+                    HPOS="714"
+                    VPOS="533"
+                    WIDTH="4992"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="721 568 721 533 5702 545 5706 591 5698 618 714 606"/></Shape>
+	    <String CONTENT="daͤchtigen gardian, aͤbtissin und ir beider convent des gotzhuses zuͦ Kùngsfelden, ùnsern gnedigen, lieben herren und frowen an einem, und den erwirdigen, wolgelerten herren probst, decan und capittel des stifftes zuͦ Werde,"
+                    HPOS="714"
+                    VPOS="533"
+                    WIDTH="4992"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l5"
+                    
+                    BASELINE="708 620 971 620 1234 622 1498 624 1761 624 2024 626 2288 628 2551 630 2814 632 3078 632 3341 634 3605 634 3868 636 4131 636 4395 638 4658 638 4921 638 5185 636 5448 636 5712 634" 
+                    HPOS="698"
+                    VPOS="572"
+                    WIDTH="5012"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="706 618 706 572 5706 591 5710 633 5702 664 698 644"/></Shape>
+	    <String CONTENT="ouch ùnsern gnaͤdigen, lieben herren, zem andern teilen. harruͤrent umb sòlichs, daz die obgedachten ùnsˀ herren und frowen zuͦ Kungsfelden gemeint hand und noch meynnent, daz ir zechend, den sy langezithar ze Seon gehebt"
+                    HPOS="698"
+                    VPOS="572"
+                    WIDTH="5012"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l6"
+                    
+                    BASELINE="720 666 982 666 1245 666 1507 668 1770 668 2032 670 2295 672 2557 674 2820 676 3082 678 3345 678 3607 680 3870 682 4132 682 4395 682 4657 682 4920 682 5182 682 5445 680 5708 676" 
+                    HPOS="710"
+                    VPOS="618"
+                    WIDTH="4996"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="718 664 718 618 5702 633 5706 675 5698 694 710 683"/></Shape>
+	    <String CONTENT="und noch hand, ein leyen zechend si, und ir gotzhuse den also fur fry lidig eigen nach besage und innhalt der briefen, darumb geben, in kouffs wise ankomen durch si und die iren von ires gotzhus wegen gelichen, genutzet und ✳"
+                    HPOS="710"
+                    VPOS="618"
+                    WIDTH="4996"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l7"
+                    
+                    BASELINE="706 710 969 710 1233 710 1497 712 1760 714 2023 723 2287 724 2551 718 2815 720 3079 722 3342 724 3606 726 3870 727 4133 728 4397 728 4661 728 4924 728 5188 726 5452 724 5716 722" 
+                    HPOS="698"
+                    VPOS="660"
+                    WIDTH="5015"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="702 706 702 660 5710 671 5713 721 5710 744 698 744"/></Shape>
+	    <String CONTENT="inen bishar one intrag und sumnisz unsˀ herren von Werde noch der iren ingangen, und zuͦ jeden jaren sölich lichen und empfachen ruͤwlich vergolten worden sye, untz sidhar bi kurtzem werden si und ir gotzhus in ettlich"
+                    HPOS="698"
+                    VPOS="660"
+                    WIDTH="5015"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l8"
+                    
+                    BASELINE="710 752 972 752 1235 754 1497 756 1760 757 2023 758 2285 762 2548 764 2811 766 3073 768 3336 770 3598 770 3861 772 4124 774 4386 774 4649 774 4912 772 5174 772 5437 769 5700 766" 
+                    HPOS="698"
+                    VPOS="706"
+                    WIDTH="5000"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="706 748 706 706 5694 714 5698 763 5690 787 698 783"/></Shape>
+	    <String CONTENT="wege gesumpt und getrenget an den personen, die solichen zechenden empfangen habent, als daz hienach clerlicher begriffen wirt. dawider nu unser herren probste und capittel zuͦ Werde antwurten lassen hand:"
+                    HPOS="698"
+                    VPOS="706"
+                    WIDTH="5000"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l9"
+                    
+                    BASELINE="714 796 980 796 1246 798 1512 800 1778 802 2044 804 2310 806 2576 808 2842 810 3108 812 3375 814 3641 816 3907 816 4173 818 4439 818 4705 816 4971 816 5237 814 5503 812 5770 808" 
+                    HPOS="702"
+                    VPOS="748"
+                    WIDTH="5065"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="710 794 710 748 5763 763 5767 806 5759 833 702 821"/></Shape>
+	    <String CONTENT="wie unser herren und frowen zuͦ Kûngsfelden iren obgeruͤrten zechend₎ harbracht und genossen hand, lassent si sin und beliben, aber ir gotzhuse ze Werde hab ouch daselbs ze Seon einen zechenden in der von Kùngsfelden zechen¬"
+                    HPOS="702"
+                    VPOS="748"
+                    WIDTH="5065"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l10"
+                    
+                    BASELINE="706 838 970 840 1235 842 1500 844 1764 846 2029 848 2294 850 2559 852 2823 854 3088 856 3353 856 3618 858 3882 858 4147 860 4412 860 4677 860 4941 858 5206 858 5471 856 5736 854" 
+                    HPOS="698"
+                    VPOS="794"
+                    WIDTH="5035"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="702 836 702 794 5729 813 5733 852 5725 879 698 859"/></Shape>
+	    <String CONTENT="den ab sundern guͤtern, den si von wegen der kilchen und lùtpriestery daselb, die als kilchherren damit zuͦversehen ouch langezit harbracht und ouch zelichen gehebt, gephlegen hand und noch tuͤnd uff und von den selben ge¬"
+                    HPOS="698"
+                    VPOS="794"
+                    WIDTH="5035"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l11"
+                    
+                    BASELINE="718 882 981 882 1244 884 1507 886 1770 888 2033 890 2296 892 2559 894 2822 896 3085 898 3348 900 3611 902 3874 902 4137 904 4400 904 4663 904 4926 904 5189 904 5452 902 5716 900" 
+                    HPOS="706"
+                    VPOS="836"
+                    WIDTH="5007"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="714 879 714 836 5710 852 5713 898 5706 925 706 909"/></Shape>
+	    <String CONTENT="wissen akern und guͤtern in dem benan̄ czwinge und unsˀ heˀren und frowen zuͦ Kùngsfelden zechenden, ze Seon gelegen, hoffent ouch und meinnent zuͦ solichem hinfur als bishar zuͦ tuͦnde und vō ir lùtpriestery und kilchen"
+                    HPOS="706"
+                    VPOS="836"
+                    WIDTH="5007"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l12"
+                    
+                    BASELINE="728 926 988 926 1248 928 1508 930 1768 932 2028 934 2288 936 2548 938 2808 940 3068 941 3328 942 3588 944 3848 946 4108 946 4368 948 4628 948 4888 948 5148 948 5408 948 5668 946" 
+                    HPOS="718"
+                    VPOS="879"
+                    WIDTH="4949"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="725 925 725 879 5663 898 5667 944 5660 963 718 948"/></Shape>
+	    <String CONTENT="wegen ze Seon zephlegen haben on menglichs irrung und intrag. und wan nu die gemelten beide parthyen unser herren und frowen zuͦ Kungsfelden und zuͤ Werde ye eine von der andern bishar gesuͦcht und gesumpt sint"
+                    HPOS="718"
+                    VPOS="879"
+                    WIDTH="4949"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l13"
+                    
+                    BASELINE="714 966 978 966 1242 968 1506 970 1770 972 2034 974 2298 976 2562 978 2826 982 3090 984 3355 986 3619 987 3883 988 4147 990 4411 992 4675 992 4939 992 5203 992 5467 992 5732 990" 
+                    HPOS="702"
+                    VPOS="925"
+                    WIDTH="5027"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="710 963 710 925 5725 936 5729 986 5721 1017 702 986"/></Shape>
+	    <String CONTENT="worden durch die, den dann von yedem teile sin zechend gelichen ist, also das die licher und empfacher unser herren von Werde ettwenn zechenden geminet, abgetragen, rechthaben zenemen gemeint hand ab etlichen guͤtern und akern,"
+                    HPOS="702"
+                    VPOS="925"
+                    WIDTH="5027"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l14"
+                    
+                    BASELINE="722 1008 984 1010 1246 1010 1508 1012 1771 1014 2033 1016 2295 1018 2558 1020 2820 1022 3082 1024 3345 1026 3607 1028 3869 1030 4132 1032 4394 1034 4656 1034 4919 1036 5181 1036 5443 1036 5706 1036" 
+                    HPOS="714"
+                    VPOS="952"
+                    WIDTH="4988"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="721 1005 721 952 5698 986 5702 1032 5694 1055 714 1025"/></Shape>
+	    <String CONTENT="die ùnsˀ herren und frowen zuͦ Kùngsfelden durch ires zechenden empfacher ouch geminet und recht dazuͤ zehaben gemeint hand, da durch nu dieselben empfacher etliche jarhar zuͦmermalen irrig, stoͤssig und zweytraͤchtig worden"
+                    HPOS="714"
+                    VPOS="952"
+                    WIDTH="4988"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l15"
+                    
+                    BASELINE="722 1050 984 1052 1246 1054 1509 1056 1771 1058 2034 1060 2296 1062 2558 1064 2821 1066 3083 1068 3346 1070 3608 1072 3871 1074 4133 1076 4395 1076 4658 1078 4920 1078 5183 1080 5445 1080 5708 1080" 
+                    HPOS="714"
+                    VPOS="1002"
+                    WIDTH="4992"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="721 1048 721 1002 5702 1032 5706 1078 5698 1101 714 1074"/></Shape>
+	    <String CONTENT="sint, inmassen ettwenn grosser kumber, unwill und unfuͦg zwùschent denselben der beider zechenden empfachern und intragern uferstanden sin moͤcht, die nit guͦt werent, als denn soͤlich ir misshellung in clage, antwurt, widerrede"
+                    HPOS="714"
+                    VPOS="1002"
+                    WIDTH="4992"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l16"
+                    
+                    BASELINE="720 1096 983 1096 1246 1096 1510 1098 1773 1098 2037 1100 2300 1102 2564 1104 2827 1108 3091 1110 3354 1112 3618 1114 3881 1116 4145 1118 4408 1120 4672 1122 4935 1123 5199 1124 5462 1124 5726 1124" 
+                    HPOS="710"
+                    VPOS="1040"
+                    WIDTH="5015"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="718 1094 718 1040 5721 1074 5725 1121 5717 1144 710 1121"/></Shape>
+	    <String CONTENT="und nachrede vor ùns voͤllicher und clerlicher ist erzellt worden ꝫcꝭ. soͤlichs alles zuͦvermiden, ouch ir beider obgedachter parthyen, unsˀ gnedign̄ lieben herren und frowen ze Kungsfelden und ze Werde, clagens, misshellūg, nachriten, ko¬"
+                    HPOS="710"
+                    VPOS="1040"
+                    WIDTH="5015"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l17"
+                    
+                    BASELINE="732 1138 993 1138 1254 1140 1515 1140 1777 1142 2038 1144 2299 1146 2560 1148 2822 1150 3083 1152 3344 1154 3605 1156 3867 1158 4128 1160 4389 1162 4650 1164 4912 1166 5173 1166 5434 1168 5696 1168" 
+                    HPOS="721"
+                    VPOS="1086"
+                    WIDTH="4973"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="729 1136 729 1086 5690 1117 5694 1167 5687 1193 721 1163"/></Shape>
+	    <String CONTENT="sten, schaden, sumniss, irrung und unwillen, so fùrer uss soͤlichen dingen wachsen und entspringen moͤchte abzesin ꝫcꝭ, hand wir angesehen und ùns bewegen lassen, ùnsern flizz, ernst und vermoͤgen dazuͤ zekeren, wie si beide teile "
+                    HPOS="721"
+                    VPOS="1086"
+                    WIDTH="4973"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l18"
+                    
+                    BASELINE="726 1184 988 1182 1251 1182 1514 1184 1777 1184 2040 1186 2303 1188 2565 1190 2828 1192 3091 1194 3354 1198 3617 1200 3880 1202 4142 1204 4405 1206 4668 1208 4931 1210 5194 1210 5457 1212 5720 1212" 
+                    HPOS="718"
+                    VPOS="1132"
+                    WIDTH="4999"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="725 1182 721 1132 5713 1159 5717 1209 5710 1236 718 1205"/></Shape>
+	    <String CONTENT="und ir gotzhùser in disen sachen geeinet, gerichtet, entscheiden und hinfùr dweder teile von dem andern durch si, noch die soͤlichen zechenden empfachent, geirret, ersuͦcht, noch von einander bekùmbert werdent, sunder ruͤwlich"
+                    HPOS="718"
+                    VPOS="1132"
+                    WIDTH="4999"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l19"
+                    
+                    BASELINE="726 1226 988 1226 1250 1226 1512 1226 1774 1228 2037 1230 2299 1232 2561 1234 2823 1236 3085 1238 3348 1240 3610 1243 3872 1246 4134 1248 4396 1250 4659 1252 4921 1254 5183 1256 5445 1258 5708 1258" 
+                    HPOS="718"
+                    VPOS="1174"
+                    WIDTH="4988"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="725 1224 725 1174 5702 1205 5706 1255 5698 1274 718 1240"/></Shape>
+	    <String CONTENT="und fridlich leben sin und bliben moͤgent ꝫcꝭ. daz wir, die obgeschribnen beide, Hanns Heinrich von Banmos, vogte, und Hanns Haberer, undervogte, an beide parthyen sovil gesuͦcht, uns zwùschent inen gearbeit und funden, daz"
+                    HPOS="718"
+                    VPOS="1174"
+                    WIDTH="4988"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l20"
+                    
+                    BASELINE="730 1270 993 1270 1257 1270 1521 1270 1784 1272 2048 1273 2312 1274 2575 1276 2839 1279 3103 1282 3366 1284 3630 1286 3894 1290 4157 1292 4421 1294 4685 1296 4948 1299 5212 1300 5476 1302 5740 1304" 
+                    HPOS="721"
+                    VPOS="794"
+                    WIDTH="5015"
+                    HEIGHT="534">
+            <Shape><Polygon POINTS="729 1266 1286 794 5736 798 5736 1301 5729 1328 721 1293"/></Shape>
+	    <String CONTENT="si ùns umb alle und yegliche obgemeltē stoͤss und spenne zuͤ minn und zuͦ recht darinn zesprechen getrùwet, die zuͦ ùns gesetzt und da by nemlich unsˀ herren und frowen zuͦ Kùngsfelden durch die ersamen, wisen Ruͦdolffn̄"
+                    HPOS="721"
+                    VPOS="794"
+                    WIDTH="5015"
+                    HEIGHT="534"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l21"
+                    
+                    BASELINE="718 1316 982 1316 1246 1316 1510 1316 1774 1316 2038 1318 2302 1319 2566 1320 2830 1322 3094 1324 3359 1326 3623 1330 3887 1332 4151 1334 4415 1336 4679 1338 4943 1342 5207 1344 5471 1346 5736 1348" 
+                    HPOS="706"
+                    VPOS="1266"
+                    WIDTH="5027"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="714 1312 714 1266 5729 1297 5733 1347 5725 1370 706 1332"/></Shape>
+	    <String CONTENT="Niesslin, yetz ir gnaden hofmeister, Uͦlrichn̄ am Buͤl, altenhofmeister daselbs, und Niclawsen Friker, schultn̄ zuͦ Brugge, als ir gnaden convent und gotzhuse in disen sachen volmechtige botten und anwaͤlte, und unsˀ herˀn"
+                    HPOS="706"
+                    VPOS="1266"
+                    WIDTH="5027"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l22"
+                    
+                    BASELINE="730 1360 991 1360 1252 1360 1514 1360 1775 1360 2037 1362 2298 1362 2560 1364 2821 1364 3083 1366 3344 1368 3606 1370 3867 1372 4129 1374 4390 1378 4652 1380 4913 1382 5175 1386 5436 1388 5698 1392" 
+                    HPOS="721"
+                    VPOS="1305"
+                    WIDTH="4973"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="729 1359 729 1305 5690 1336 5694 1389 5687 1405 721 1382"/></Shape>
+	    <String CONTENT="von Werde durch den erwirdigen, wolgelerten meyster Niclawsen Trùllereye, ir gnaden und wirdigem capittel custor, meister der kùnsten und gelerten baͤpstlicher rechten, ouch irem in disen sachen volmaͤchtigen"
+                    HPOS="721"
+                    VPOS="1305"
+                    WIDTH="4973"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l23"
+                    
+                    BASELINE="722 1404 984 1404 1246 1404 1508 1404 1771 1404 2033 1406 2295 1407 2558 1408 2820 1410 3082 1412 3345 1414 3607 1416 3869 1418 4132 1420 4394 1422 4656 1424 4919 1428 5181 1430 5443 1434 5706 1436" 
+                    HPOS="714"
+                    VPOS="1347"
+                    WIDTH="4988"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="721 1401 721 1347 5698 1374 5702 1435 5694 1455 714 1416"/></Shape>
+	    <String CONTENT="bottn̄, sachfuͤrer und anwalten, bi rechten, waren und staͤten wirden und trùwen, darumb mit liplicher stabung und ingeleiten handen geben, globt und versprochn̄ hand fùr sy und der beider convent und capittell"
+                    HPOS="714"
+                    VPOS="1347"
+                    WIDTH="4988"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l24"
+                    
+                    BASELINE="716 1448 978 1450 1240 1450 1502 1452 1764 1452 2027 1454 2289 1454 2551 1456 2813 1456 3075 1458 3338 1458 3600 1460 3862 1461 4124 1462 4386 1464 4649 1467 4911 1470 5173 1473 5435 1476 5698 1480" 
+                    HPOS="710"
+                    VPOS="1397"
+                    WIDTH="4984"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="714 1447 714 1397 5690 1424 5694 1478 5687 1501 710 1470"/></Shape>
+	    <String CONTENT="und fur alle ir nachkomē des gotzhuses zuͦ Kûngsfelden und stifftes zuͦ Werde ✳ gantz, staͤt, veste und unvˀbruchentlich zehalten, zuͦ loben und ze volfuͤren, one alle irrung, widerrede, inzùg, fùnd, sachen und geverde ✳ alles das, so"
+                    HPOS="710"
+                    VPOS="1397"
+                    WIDTH="4984"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l25"
+                    
+                    BASELINE="732 1490 995 1494 1258 1496 1520 1508 1783 1508 2048 1500 2312 1500 2575 1502 2838 1502 3102 1504 3365 1504 3629 1506 3892 1506 4155 1508 4419 1510 4682 1512 4945 1516 5209 1520 5472 1524 5736 1530" 
+                    HPOS="721"
+                    VPOS="1443"
+                    WIDTH="5012"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="729 1489 729 1443 5729 1470 5733 1527 5725 1551 721 1516"/></Shape>
+	    <String CONTENT="durch ùns zwene hierinne gesprochen, erkennt wirt und in welich wise wir si entscheident, noch dawider niemer zereden, zekomen, weder durch ir beiderteil wirdikeit und gnade, noch ir aller nachkomen, als obstat, sunder"
+                    HPOS="721"
+                    VPOS="1443"
+                    WIDTH="5012"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l26"
+                    
+                    BASELINE="736 1534 996 1536 1257 1540 1518 1542 1777 1556 2038 1558 2301 1546 2562 1546 2823 1548 3084 1549 3345 1550 3606 1552 3867 1552 4128 1554 4389 1556 4650 1558 4911 1560 5172 1564 5433 1566 5694 1570" 
+                    HPOS="725"
+                    VPOS="1489"
+                    WIDTH="4965"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="733 1531 733 1489 5687 1520 5690 1566 5683 1593 725 1558"/></Shape>
+	    <String CONTENT="das ouch nit helffen, noch yemandem gehellen oder vertragen dawider zetuͦnde alles getrùwlich, wirdiclich und uffrechtlich, ouch alle geverde hierinn gentzlich vermitten, und uff soͤlichs, so sint wir bedachtlich ùber"
+                    HPOS="725"
+                    VPOS="1489"
+                    WIDTH="4965"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l27"
+                    
+                    BASELINE="730 1582 993 1584 1256 1586 1519 1588 1782 1588 2045 1590 2308 1590 2572 1592 2835 1592 3098 1592 3361 1594 3624 1596 3887 1596 4151 1598 4414 1600 4677 1604 4940 1606 5203 1610 5466 1614 5730 1620" 
+                    HPOS="721"
+                    VPOS="1516"
+                    WIDTH="5008"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="729 1581 729 1527 1516 1535 1528 1531 1562 1516 1562 1516 1566 1516 1566 1516 1570 1516 1835 1516 1835 1516 5725 1566 5729 1616 5721 1635 721 1604"/></Shape>
+	    <String CONTENT="die sachen gesessen, die nach beider parthyen fùrbringen erkunnet und gewegen, ouch mit rat gelerter und ungelerter, wiser lùten, der wir hierinne zemermalen gephlegen, nach unser besten verstentnisz gesprochn̄ erkennt,"
+                    HPOS="721"
+                    VPOS="1516"
+                    WIDTH="5008"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l28"
+                    
+                    BASELINE="724 1630 985 1632 1246 1632 1508 1632 1769 1634 2030 1634 2292 1634 2553 1634 2814 1634 3076 1636 3337 1636 3599 1638 3860 1638 4121 1640 4383 1642 4644 1646 4905 1648 5167 1652 5428 1656 5690 1662" 
+                    HPOS="714"
+                    VPOS="1574"
+                    WIDTH="4973"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="721 1627 721 1574 5683 1608 5687 1658 5679 1681 714 1650"/></Shape>
+	    <String CONTENT="und si beide teile entlichen hierinne entscheiden hand als hienach stat. dem ist alsus und des ersten: daz unser gnedigen herren und frowen zuͦ Kungsfelden durch si und die iren den korn zechenden, so man nempt den grossen"
+                    HPOS="714"
+                    VPOS="1574"
+                    WIDTH="4973"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l29"
+                    
+                    BASELINE="740 1668 1001 1672 1262 1674 1523 1676 1784 1676 2045 1678 2306 1678 2568 1678 2829 1678 3090 1678 3351 1680 3612 1680 3873 1682 4135 1684 4396 1686 4657 1688 4918 1692 5179 1698 5440 1702 5702 1710" 
+                    HPOS="729"
+                    VPOS="1616"
+                    WIDTH="4969"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="737 1666 737 1616 5694 1658 5698 1708 5690 1731 729 1689"/></Shape>
+	    <String CONTENT="zechenden zuͦ Seon, nemlich unsˀ herren von Werde zechenden, den si bishar von ir kilchn̄ und lutpriestery wegen daselbs ze Seon gehebt und noch hand mitsambt dem iren, den si fùr leyen zehenden fry, ledig und eigen ha¬"
+                    HPOS="729"
+                    VPOS="1616"
+                    WIDTH="4969"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l30"
+                    
+                    BASELINE="748 1714 1010 1718 1272 1720 1534 1720 1796 1722 2059 1722 2321 1724 2583 1724 2845 1724 3107 1724 3370 1724 3632 1726 3894 1726 4156 1728 4418 1730 4681 1734 4943 1738 5205 1744 5467 1750 5730 1758" 
+                    HPOS="737"
+                    VPOS="1650"
+                    WIDTH="4992"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="744 1712 744 1650 5725 1693 5729 1754 5721 1773 737 1735"/></Shape>
+	    <String CONTENT="bend als obstat ꝫcꝭ, hinfùr ewiglich und alle jar besunder one unsˀ herˀn von Werde oder der iren biwesen und zuͦtuͦn samenthafft lichen und besetzn̄ sollent, so nutzlich und beste si koͤnnent und moͤgent, also daz von der sum̄"
+                    HPOS="737"
+                    VPOS="1650"
+                    WIDTH="4992"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l31"
+                    
+                    BASELINE="740 1762 1002 1764 1264 1764 1526 1766 1789 1766 2051 1766 2313 1766 2576 1766 2838 1766 3100 1766 3363 1766 3625 1768 3887 1768 4150 1770 4412 1772 4674 1776 4937 1780 5199 1785 5461 1791 5724 1798" 
+                    HPOS="729"
+                    VPOS="1704"
+                    WIDTH="4992"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="737 1758 737 1704 5717 1742 5721 1796 5713 1819 3720 1785 729 1781"/></Shape>
+	    <String CONTENT="der stuken darumb denn yedas jare sòlicher zesamengemischeter zehend gelichen wirt, mitsambt den stuken, so da gand und vallent abe, und von nemlichen guͤtlinen, ouch im zwing ze Seon gelegen, die aber in unsˀ frowē"
+                    HPOS="729"
+                    VPOS="1704"
+                    WIDTH="4992"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l32"
+                    
+                    BASELINE="752 1804 1014 1806 1276 1808 1538 1810 1800 1810 2062 1810 2324 1810 2586 1810 2848 1810 3110 1810 3373 1810 3635 1812 3897 1812 4159 1814 4421 1816 4683 1820 4945 1824 5207 1828 5469 1834 5732 1842" 
+                    HPOS="741"
+                    VPOS="1750"
+                    WIDTH="4988"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="748 1800 748 1750 5725 1773 5729 1838 5721 1861 741 1819"/></Shape>
+	    <String CONTENT="von Kùngsfelden zechenden gen Ròtterschwilr in sunders gehorende und zuͦgemeinen jaren uff vier stuk geachtet darin begriffen sint eim lutpriester zuͦ Seon werden und ingan sol zuͦjedem jare der dritteil und unsˀn"
+                    HPOS="741"
+                    VPOS="1750"
+                    WIDTH="4988"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l33"
+                    
+                    BASELINE="740 1848 1001 1850 1262 1852 1523 1854 1785 1854 2046 1854 2307 1854 2568 1854 2830 1854 3091 1856 3352 1856 3613 1856 3875 1858 4136 1858 4397 1860 4658 1864 4920 1866 5181 1871 5442 1876 5704 1882" 
+                    HPOS="729"
+                    VPOS="1792"
+                    WIDTH="4973"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="737 1846 737 1792 5698 1827 5702 1881 5694 1900 729 1869"/></Shape>
+	    <String CONTENT="herren und frowen des gotzhuses zuͦ Kungsfelden zwen teile, nemlich eim lutpriester der dritteil des gersten zechenden an gersten und am korn zechenden zwey stuk an habern und drù stuk an gemuͤs, bonen, erwsen"
+                    HPOS="729"
+                    VPOS="1792"
+                    WIDTH="4973"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l34"
+                    
+                    BASELINE="744 1896 1005 1896 1266 1898 1527 1898 1788 1898 2049 1900 2310 1900 2572 1900 2833 1900 3094 1900 3355 1900 3616 1902 3877 1902 4139 1904 4400 1906 4661 1908 4922 1912 5183 1916 5444 1920 5706 1926" 
+                    HPOS="733"
+                    VPOS="1842"
+                    WIDTH="4969"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="741 1892 741 1842 5698 1873 5702 1923 5694 1942 733 1915"/></Shape>
+	    <String CONTENT="und hirs, und sol ouch des eins dritteils und nit mer usgewist werden noch heischen. und umb den kleinnen zehenden daselbs, wan wir deheinˀ misshellūg darinne verstanden hand, so lassent wir das belibn̄, wie es"
+                    HPOS="733"
+                    VPOS="1842"
+                    WIDTH="4969"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l35"
+                    
+                    BASELINE="748 1942 1010 1942 1272 1942 1534 1942 1796 1940 2059 1940 2321 1940 2583 1942 2803 1953 3107 1942 3370 1944 3632 1946 3894 1947 4156 1950 4418 1952 4681 1954 4943 1958 5205 1962 5467 1966 5730 1970" 
+                    HPOS="737"
+                    VPOS="1892"
+                    WIDTH="4992"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="744 1938 744 1892 5725 1904 5729 1969 5721 1984 737 1961"/></Shape>
+	    <String CONTENT="vō alter har gehalten und eim lùtpriester zuͦ Seon gelanget und ingangen ist. wir vorbehabent ouch hierinne eim lùtpriester zuͦ Seon den erschatz, ✳ von unsˀ herˀn von Werde zechenden harruͤrende, der sich zuͦ sinē zitn̄"
+                    HPOS="737"
+                    VPOS="1892"
+                    WIDTH="4992"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l36"
+                    
+                    BASELINE="740 1986 1003 1988 1266 1988 1530 1988 1793 1988 2057 1988 2320 1986 2584 1986 2847 1986 3111 1986 3374 1986 3638 1988 3901 1989 4165 1990 4428 1994 4692 1996 4955 2000 5219 2004 5482 2010 5746 2016" 
+                    HPOS="729"
+                    VPOS="1927"
+                    WIDTH="5015"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="737 1984 737 1927 5740 1957 5744 2015 5736 2034 729 2004"/></Shape>
+	    <String CONTENT="gebùrt funffzehen schilling haller. und sprechent ouch fùrer, daz ein jeglicher, der soͤlichen zesamen geordneten zechenden empfachen wirt eim lùtpriester zuͦ Seon zuͦ dem dritteil der stuken als obstat geben und phlich-"
+                    HPOS="729"
+                    VPOS="1927"
+                    WIDTH="5015"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l37"
+                    
+                    BASELINE="756 2034 1015 2034 1275 2034 1535 2034 1795 2032 2055 2032 2315 2032 2575 2030 2835 2030 3095 2030 3354 2032 3614 2032 3874 2032 4134 2034 4394 2038 4654 2040 4914 2044 5174 2048 5434 2054 5694 2062" 
+                    HPOS="748"
+                    VPOS="1973"
+                    WIDTH="4942"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="752 2030 752 1973 5687 2004 5690 2061 5683 2080 3832 2053 748 2053"/></Shape>
+	    <String CONTENT="tig sin sol zweyhundert garben strowes. und nach soͤlichem erkennent und entscheident wir aber fùrer, ob sich zuͦ einichen ziten gefuͦgte und zuͦschulden kaͤm, daz von und ab soͤlicher samenthaffter gantzer sum̄"
+                    HPOS="748"
+                    VPOS="1973"
+                    WIDTH="4942"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l38"
+                    
+                    BASELINE="744 2080 1006 2080 1268 2078 1530 2078 1792 2076 2054 2076 2316 2076 2578 2076 2840 2076 3102 2076 3364 2076 3626 2076 3888 2078 4150 2080 4412 2082 4674 2084 4936 2088 5198 2092 5460 2096 5722 2102" 
+                    HPOS="733"
+                    VPOS="2023"
+                    WIDTH="4988"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="741 2076 741 2023 5717 2042 5721 2100 5713 2119 733 2096"/></Shape>
+	    <String CONTENT="umb die soͤlicher zesamengeordneter zechend hinfùr gelichen wirt, oder gelichen moͤcht werden, dheinerley abbrùch gebraͤstlicheit und abgang uferstan, wachsen oder komen moͤcht, es wer von wetter, miswaͤchs,"
+                    HPOS="733"
+                    VPOS="2023"
+                    WIDTH="4988"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l39"
+                    
+                    BASELINE="742 2126 1003 2124 1265 2124 1527 2124 1788 2122 2050 2122 2312 2122 2573 2122 2835 2122 3097 2122 3358 2122 3620 2122 3882 2124 4143 2126 4405 2128 4667 2130 4928 2134 5190 2138 5452 2142 5714 2148" 
+                    HPOS="733"
+                    VPOS="2069"
+                    WIDTH="4980"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="741 2123 741 2069 5710 2092 5713 2146 5706 2165 733 2142"/></Shape>
+	    <String CONTENT="hagel, wind oder brand, daz soͤlicher abbruch, abgang und gebraͤst eim teil nit me noch minder, denn dem andern zuͦgezogen, noch ufgeleit werden sol, sunder jeder teil sin sum̄ des abgangs tragen und liden nach siner"
+                    HPOS="733"
+                    VPOS="2069"
+                    WIDTH="4980"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l40"
+                    
+                    BASELINE="740 2170 1003 2170 1266 2170 1530 2170 1793 2170 2057 2168 2320 2168 2584 2168 2847 2168 3111 2168 3374 2168 3638 2168 3901 2170 4165 2172 4428 2174 4692 2178 4955 2180 5219 2186 5482 2190 5746 2196" 
+                    HPOS="729"
+                    VPOS="2119"
+                    WIDTH="5015"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="737 2169 737 2119 5740 2130 5744 2192 5736 2211 729 2192"/></Shape>
+	    <String CONTENT="anzahl, das gebùrt sich unsern herˀn und frowen zuͦ Kungsfelden an irem zwen teil der abgangenen stuken zwen teil und eim lutpriester zuͦ Seon an sim drittenteil der abgangnen stuken, ouch der dritteil und nit mer."
+                    HPOS="729"
+                    VPOS="2119"
+                    WIDTH="5015"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l41"
+                    
+                    BASELINE="754 2216 1014 2216 1275 2216 1536 2216 1797 2216 2058 2214 2319 2214 2579 2214 2840 2214 3101 2212 3362 2214 3623 2214 3884 2214 4144 2216 4405 2218 4666 2220 4927 2224 5188 2228 5449 2234 5710 2240" 
+                    HPOS="744"
+                    VPOS="2165"
+                    WIDTH="4962"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="752 2215 752 2165 5702 2184 5706 2238 5698 2253 744 2238"/></Shape>
+	    <String CONTENT="es sol ouch dwederer parthy sinteil der anzal ee gewert und dem andern gevaͤrlich vˀzogen sunder miteinander einsmals geantwurt und eins lutpriesters dritteil durch in selbs von dem empfacher oder em¬"
+                    HPOS="744"
+                    VPOS="2165"
+                    WIDTH="4962"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l42"
+                    
+                    BASELINE="756 2258 1015 2260 1274 2260 1533 2258 1793 2258 2052 2258 2311 2258 2570 2256 2830 2256 3089 2256 3348 2256 3607 2256 3867 2258 4126 2258 4385 2260 4644 2264 4904 2268 5163 2272 5422 2278 5682 2284" 
+                    HPOS="744"
+                    VPOS="2199"
+                    WIDTH="4935"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="752 2257 752 2199 5675 2226 5679 2280 5671 2299 744 2276"/></Shape>
+	    <String CONTENT="pfachern ingezogen werden, je der parthy sin teil, als sich das nach zechenden recht gehoͤischet. ouch ist es hierinne in sunders zemerkende, als wir unsˀ frown̄ von Kùngsfelden in ùnserm spruch die guͤtli, im"
+                    HPOS="744"
+                    VPOS="2199"
+                    WIDTH="4935"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l43"
+                    
+                    BASELINE="740 2302 1001 2304 1263 2304 1525 2304 1787 2304 2048 2304 2310 2304 2572 2302 2834 2302 3096 2302 3357 2300 3619 2300 3881 2302 4143 2302 4405 2304 4666 2308 4928 2312 5190 2316 5452 2322 5714 2330" 
+                    HPOS="733"
+                    VPOS="2245"
+                    WIDTH="4980"
+                    HEIGHT="104">
+            <Shape><Polygon POINTS="737 2299 737 2245 5710 2268 5713 2326 5706 2349 4235 2326 3866 2341 3820 2341 3816 2341 3790 2341 3582 2322 733 2322"/></Shape>
+	    <String CONTENT="zwing ze Seon gelegen, die bishar in iren zechenden gen Roͤtterswilr zechendet hand und gehoͤrent, die zuͦgemeinen jaren uff vier stuk geschetzet sint, in iren und der von Werde zechenden ze Seon gezogen und begriffen"
+                    HPOS="733"
+                    VPOS="2245"
+                    WIDTH="4980"
+                    HEIGHT="104"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l44"
+                    
+                    BASELINE="748 2348 1010 2348 1272 2350 1534 2350 1796 2350 2058 2350 2320 2350 2582 2350 2844 2350 3106 2350 3368 2350 3630 2350 3892 2350 4154 2352 4416 2354 4678 2358 4940 2362 5202 2366 5464 2372 5726 2380" 
+                    HPOS="741"
+                    VPOS="2291"
+                    WIDTH="4984"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="744 2345 744 2291 5721 2322 5725 2376 5717 2399 3237 2368 741 2368"/></Shape>
+	    <String CONTENT="hand, als obgedacht ist, daz das denselben ûnsern frowen vō Kungsfelden an demselben irem gantzen zechenden ze Roͤtterschwilr sust unschedlich, unvergriffen sin, noch ouch vō unsern herˀen vō Werde und menglichm̄"
+                    HPOS="741"
+                    VPOS="2291"
+                    WIDTH="4984"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l45"
+                    
+                    BASELINE="744 2392 1006 2394 1268 2394 1530 2394 1792 2394 2055 2394 2317 2394 2579 2394 2841 2394 3103 2394 3366 2394 3628 2394 3890 2396 4152 2398 4414 2400 4677 2402 4939 2406 5201 2410 5463 2416 5726 2424" 
+                    HPOS="733"
+                    VPOS="2338"
+                    WIDTH="4992"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="741 2391 741 2338 5721 2368 5725 2422 5717 2441 733 2410"/></Shape>
+	    <String CONTENT="vō iren wegen darinne alleclich ungesuͦcht und unangelanget sin und bliben und soͤllent, ouch beide teile hierinne mit soͤlichem ùnserm spruch und entscheidungen umb alle und jegliche spenn und misshellūg,"
+                    HPOS="733"
+                    VPOS="2338"
+                    WIDTH="4992"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l46"
+                    
+                    BASELINE="744 2438 1004 2440 1265 2440 1526 2440 1787 2440 2048 2438 2309 2438 2570 2438 2831 2438 3092 2438 3353 2438 3614 2438 3875 2440 4138 2450 4399 2452 4658 2448 4919 2452 5180 2457 5441 2464 5702 2470" 
+                    HPOS="733"
+                    VPOS="2384"
+                    WIDTH="4965"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="741 2437 741 2384 5694 2410 5698 2468 5690 2483 733 2457"/></Shape>
+	    <String CONTENT="der gemeltem sachen halb harruͤrent, gentzlich und gar, nu und zuͦewigen ziten gericht vˀsùnt und geschlicht bliben, und sin alle geverde akust und hinderliste hierinn gantz und ùberale vˀmitten, usgescheiden"
+                    HPOS="733"
+                    VPOS="2384"
+                    WIDTH="4965"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l47"
+                    
+                    BASELINE="728 2482 991 2484 1254 2486 1517 2486 1781 2486 2044 2486 2307 2484 2570 2484 2834 2484 3097 2482 3360 2482 3623 2482 3887 2484 4150 2486 4413 2488 4676 2491 4940 2496 5203 2502 5466 2508 5730 2516" 
+                    HPOS="725"
+                    VPOS="2457"
+                    WIDTH="5004"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="725 2480 725 2457 5721 2472 5729 2514 5721 2537 4066 2506 725 2506"/></Shape>
+	    <String CONTENT="und hindangesetzt, des alles zuͦ warem staͤtem urkund und gezugkniss sint diser brieff zwene an den worten glichlutende gemacht, jedem teile einer, mit minem, Hannsheinrichs von Banmos, obgenantem, eignem"
+                    HPOS="725"
+                    VPOS="2457"
+                    WIDTH="5004"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="region_1514666964785_10l48"
+                    
+                    BASELINE="744 2532 991 2532 1239 2534 1487 2534 1735 2534 1983 2534 2231 2532 2479 2532 2727 2530 2975 2530 3222 2530 3470 2528 3718 2528 3966 2530 4214 2532 4462 2534 4710 2536 4958 2540 5206 2546 5454 2552" 
+                    HPOS="733"
+                    VPOS="2480"
+                    WIDTH="4719"
+                    HEIGHT="176">
+            <Shape><Polygon POINTS="741 2530 741 2480 5448 2495 5452 2549 5445 2656 4427 2614 4285 2645 4285 2645 4285 2645 4281 2645 4281 2645 4277 2645 4112 2602 3974 2641 3970 2641 3970 2641 3970 2641 3966 2641 3966 2641 3751 2602 3667 2622 3663 2622 3663 2622 3659 2622 3659 2622 3536 2606 3448 2633 3444 2633 3444 2633 3444 2633 3440 2633 3440 2633 3436 2633 3436 2633 3313 2591 2687 2591 2595 2614 2591 2614 2591 2614 2588 2614 2588 2614 2384 2587 2150 2614 2150 2614 2146 2614 2146 2614 2146 2614 2039 2591 1804 2645 1804 2645 1804 2645 1800 2645 1800 2645 1585 2610 1382 2645 1382 2645 1382 2649 733 2649"/></Shape>
+	    <String CONTENT="insigel von ùnser beider wegen besigelt und geben uff mentag vor sant Michels tag, in dem jare, do man zalte nach xpī, ûnsers lieben herˀn, gebùrt vierzehenhundert und sibenundfûnfftzig jare."
+                    HPOS="733"
+                    VPOS="2480"
+                    WIDTH="4719"
+                    HEIGHT="176"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
