@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>U-17_0651_v.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="6220"
+          HEIGHT="4730"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="6220"
+                  HEIGHT="4730">
+        
+        <TextBlock HPOS="1439"
+                   VPOS="1125"
+                   WIDTH="865"
+                   HEIGHT="208"
+                   ID="region_1528114878142_28"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1439 1125 2304 1125 2304 1333 1439 1333"/></Shape>
+          
+          
+          <TextLine ID="line_1528114896375_31"
+                    
+                    BASELINE="1462 1275 2257 1265" 
+                    HPOS="1450"
+                    VPOS="1150"
+                    WIDTH="804"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="1458 1273 1450 1178 1880 1150 1884 1150 1884 1150 1884 1150 1888 1150 1888 1150 1888 1150 1892 1150 1959 1198 1982 1210 2242 1210 2254 1261 2250 1284 1454 1277"/></Shape>
+	    <String CONTENT="Königsf. 651"
+                    HPOS="1450"
+                    VPOS="1150"
+                    WIDTH="804"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3123"
+                   VPOS="1214"
+                   WIDTH="574"
+                   HEIGHT="485"
+                   ID="region_1528114885498_29"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="3123 1214 3697 1214 3697 1699 3123 1699"/></Shape>
+          
+          
+          <TextLine ID="line_1528114901078_32"
+                    
+                    BASELINE="3221 1428 3538 1451" 
+                    HPOS="3212"
+                    VPOS="1210"
+                    WIDTH="335"
+                    HEIGHT="260">
+            <Shape><Polygon POINTS="3220 1426 3228 1210 3547 1249 3535 1450 3531 1466 3326 1470 3322 1470 3322 1470 3318 1470 3212 1438"/></Shape>
+	    <String CONTENT="K"
+                    HPOS="3212"
+                    VPOS="1210"
+                    WIDTH="335"
+                    HEIGHT="260"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1528114903351_33"
+                    
+                    BASELINE="3178 1630 3574 1636" 
+                    HPOS="3169"
+                    VPOS="1403"
+                    WIDTH="406"
+                    HEIGHT="287">
+            <Shape><Polygon POINTS="3177 1627 3177 1403 3279 1411 3279 1411 3283 1411 3283 1411 3283 1411 3287 1411 3287 1411 3287 1415 3299 1422 3326 1446 3409 1442 3452 1442 3456 1442 3456 1442 3460 1442 3575 1474 3571 1635 3563 1647 3370 1643 3338 1671 3322 1687 3322 1690 3322 1690 3318 1690 3318 1690 3318 1690 3314 1690 3314 1690 3311 1690 3169 1687"/></Shape>
+	    <String CONTENT="B ✳ 20"
+                    HPOS="3169"
+                    VPOS="1403"
+                    WIDTH="406"
+                    HEIGHT="287"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3970"
+                   VPOS="1231"
+                   WIDTH="813"
+                   HEIGHT="304"
+                   ID="region_1528114954868_38"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="3970 1231 4783 1231 4783 1535 3970 1535"/></Shape>
+          
+          
+          <TextLine ID="line_1528114994231_41"
+                    
+                    BASELINE="4191 1340 4730 1376" 
+                    HPOS="4182"
+                    VPOS="1217"
+                    WIDTH="548"
+                    HEIGHT="174">
+            <Shape><Polygon POINTS="4190 1336 4193 1217 4359 1249 4418 1241 4517 1225 4517 1225 4521 1225 4521 1225 4521 1225 4525 1225 4525 1225 4525 1225 4529 1225 4572 1257 4580 1265 4730 1277 4726 1375 4718 1391 4182 1371"/></Shape>
+	    <String CONTENT="Windisch iij"
+                    HPOS="4182"
+                    VPOS="1217"
+                    WIDTH="548"
+                    HEIGHT="174"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1528114997020_42"
+                    
+                    BASELINE="4040 1521 4765 1523" 
+                    HPOS="4028"
+                    VPOS="1348"
+                    WIDTH="733"
+                    HEIGHT="212">
+            <Shape><Polygon POINTS="4036 1517 4036 1348 4757 1363 4761 1521 4753 1560 4028 1549"/></Shape>
+	    <String CONTENT="j ackˀ uff dem Stempf"
+                    HPOS="4028"
+                    VPOS="1348"
+                    WIDTH="733"
+                    HEIGHT="212"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5064"
+                   VPOS="1532"
+                   WIDTH="267"
+                   HEIGHT="869"
+                   ID="region_1528114971325_40"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="5064 1532 5331 1532 5331 2401 5064 2401"/></Shape>
+          
+          
+          <TextLine ID="line_1528115023659_49"
+                    
+                    BASELINE="5219 1562 5225 2276" 
+                    HPOS="5195"
+                    VPOS="1549"
+                    WIDTH="130"
+                    HEIGHT="725">
+            <Shape><Polygon POINTS="5218 1560 5289 1549 5321 1651 5321 1655 5321 1655 5321 1655 5321 1659 5321 1659 5321 1663 5321 1663 5297 1722 5297 1726 5297 1805 5301 1813 5325 1848 5325 1852 5325 1852 5325 1852 5325 1856 5325 1856 5325 1856 5325 1860 5325 1860 5325 1864 5305 1943 5305 1951 5305 1962 5325 2053 5325 2053 5325 2053 5325 2057 5325 2057 5325 2061 5325 2061 5325 2061 5325 2065 5325 2065 5321 2065 5309 2077 5297 2089 5313 2116 5325 2140 5325 2140 5325 2140 5325 2144 5325 2144 5325 2144 5325 2148 5325 2148 5325 2152 5325 2152 5325 2152 5313 2175 5297 2211 5317 2258 5222 2274 5195 2266 5203 1556"/></Shape>
+	    <String CONTENT="ein brieff umb den aker ✳"
+                    HPOS="5195"
+                    VPOS="1549"
+                    WIDTH="130"
+                    HEIGHT="725"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1528115027880_50"
+                    
+                    BASELINE="5156 1559 5162 2294" 
+                    HPOS="5104"
+                    VPOS="1553"
+                    WIDTH="118"
+                    HEIGHT="737">
+            <Shape><Polygon POINTS="5155 1556 5222 1553 5222 2282 5159 2290 5124 2282 5139 2033 5116 1994 5112 1994 5112 1994 5112 1990 5112 1990 5112 1986 5112 1986 5112 1986 5112 1982 5112 1982 5112 1978 5112 1978 5112 1978 5112 1974 5143 1915 5112 1797 5112 1793 5112 1793 5112 1789 5112 1789 5112 1789 5112 1785 5139 1690 5108 1655 5108 1655 5108 1651 5108 1651 5108 1651 5108 1647 5108 1647 5108 1647 5104 1556"/></Shape>
+	    <String CONTENT="uff dem Stempff ✳ ✳ so wir"
+                    HPOS="5104"
+                    VPOS="1553"
+                    WIDTH="118"
+                    HEIGHT="737"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1528115031358_51"
+                    
+                    BASELINE="5089 1562 5083 2382" 
+                    HPOS="5045"
+                    VPOS="1553"
+                    WIDTH="292"
+                    HEIGHT="827">
+            <Shape><Polygon POINTS="5088 1560 5337 1564 5321 2380 5080 2380 5065 2380 5045 2033 5045 2029 5069 1553"/></Shape>
+	    <String CONTENT="von Heinin Friker kouff hend"
+                    HPOS="5045"
+                    VPOS="1553"
+                    WIDTH="292"
+                    HEIGHT="827"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="4013"
+                   VPOS="1523"
+                   WIDTH="1083"
+                   HEIGHT="775"
+                   ID="region_1528114964671_39"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="4013 1523 5073 1523 5096 2298 4036 2298"/></Shape>
+          
+          
+          <TextLine ID="line_1528115002702_43"
+                    
+                    BASELINE="4182 1610 4670 1625" 
+                    HPOS="4170"
+                    VPOS="1525"
+                    WIDTH="496"
+                    HEIGHT="142">
+            <Shape><Polygon POINTS="4178 1608 4178 1525 4663 1541 4666 1623 4659 1667 4170 1663"/></Shape>
+	    <String CONTENT="diser br₎"
+                    HPOS="4170"
+                    VPOS="1525"
+                    WIDTH="496"
+                    HEIGHT="142"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1528115006090_44"
+                    
+                    BASELINE="4064 1749 5059 1764" 
+                    HPOS="4056"
+                    VPOS="1600"
+                    WIDTH="1001"
+                    HEIGHT="185">
+            <Shape><Polygon POINTS="4063 1746 4063 1623 4663 1647 4726 1608 4737 1600 4741 1600 4741 1600 4741 1600 4745 1600 4745 1600 4749 1600 5057 1604 5057 1761 5049 1785 4056 1781"/></Shape>
+	    <String CONTENT="ist hinfùr unùtz ✳ dann der"
+                    HPOS="4056"
+                    VPOS="1600"
+                    WIDTH="1001"
+                    HEIGHT="185"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1528115008924_45"
+                    
+                    BASELINE="4061 1878 5080 1884" 
+                    HPOS="4056"
+                    VPOS="1746"
+                    WIDTH="1020"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="4059 1876 4056 1781 4249 1757 4249 1757 4253 1757 4253 1757 4253 1757 4355 1781 4359 1781 4359 1781 4394 1750 4394 1746 4394 1746 4398 1746 4398 1746 4398 1746 4402 1746 4402 1746 4406 1746 4406 1746 4406 1746 4521 1765 4635 1746 4635 1746 4635 1746 4639 1746 4639 1746 4643 1746 4643 1746 4733 1781 4765 1754 4765 1750 4765 1750 4769 1750 4769 1750 4773 1750 4773 1750 4773 1750 4923 1746 4927 1746 4927 1746 4931 1746 5072 1785 5076 1880 5069 1899 4056 1888"/></Shape>
+	    <String CONTENT="acker und ettlich me daby"
+                    HPOS="4056"
+                    VPOS="1746"
+                    WIDTH="1020"
+                    HEIGHT="153"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1528115012955_46"
+                    
+                    BASELINE="4082 1993 4987 2005" 
+                    HPOS="4075"
+                    VPOS="1864"
+                    WIDTH="911"
+                    HEIGHT="197">
+            <Shape><Polygon POINTS="4079 1990 4075 1880 4556 1864 4560 1864 4560 1864 4599 1868 4714 1888 4753 1868 4753 1864 4757 1864 4757 1864 4761 1864 4761 1864 4765 1864 4986 1864 4986 2002 4982 2061 4860 2061 4856 2057 4856 2057 4852 2057 4852 2057 4852 2057 4852 2057 4848 2057 4848 2057 4789 2014 4501 2053 4481 2053 4481 2053 4477 2053 4477 2053 4473 2053 4473 2053 4473 2053 4469 2053 4469 2053 4469 2053 4469 2049 4426 2006 4371 2006 4178 2006 4079 2045"/></Shape>
+	    <String CONTENT="sind des hoffs Kùnigs¬"
+                    HPOS="4075"
+                    VPOS="1864"
+                    WIDTH="911"
+                    HEIGHT="197"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1528115015629_47"
+                    
+                    BASELINE="4082 2123 4914 2120" 
+                    HPOS="4067"
+                    VPOS="2018"
+                    WIDTH="844"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="4079 2120 4067 2049 4150 2018 4150 2018 4154 2018 4154 2018 4158 2018 4903 2037 4911 2116 4903 2171 4075 2167"/></Shape>
+	    <String CONTENT="feld₎ ✳ und zuͦ einer"
+                    HPOS="4067"
+                    VPOS="2018"
+                    WIDTH="844"
+                    HEIGHT="153"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1528115017823_48"
+                    
+                    BASELINE="4121 2249 4948 2249" 
+                    HPOS="4119"
+                    VPOS="2152"
+                    WIDTH="827"
+                    HEIGHT="366">
+            <Shape><Polygon POINTS="4119 2246 4119 2152 4946 2152 4946 2246 4946 2518 4670 2518 4666 2514 4666 2514 4663 2514 4611 2499 4592 2491 4584 2495 4560 2514 4556 2514 4556 2514 4556 2514 4552 2514 4552 2514 4552 2514 4548 2514 4548 2514 4544 2514 4544 2514 4544 2514 4497 2491 4462 2475 4402 2487 4327 2499 4327 2499 4327 2499 4324 2499 4324 2499 4320 2499 4320 2499 4320 2499 4316 2499 4316 2499 4292 2479 4280 2471 4119 2471"/></Shape>
+	    <String CONTENT="matt₎ gemacht ✳"
+                    HPOS="4119"
+                    VPOS="2152"
+                    WIDTH="827"
+                    HEIGHT="366"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3092"
+                   VPOS="1742"
+                   WIDTH="588"
+                   HEIGHT="337"
+                   ID="region_1528114889504_30"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="3092 1742 3680 1742 3680 2079 3092 2079"/></Shape>
+          
+          
+          <TextLine ID="line_1528114906478_34"
+                    
+                    BASELINE="3165 1904 3640 1907" 
+                    HPOS="3157"
+                    VPOS="1785"
+                    WIDTH="481"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="3161 1903 3157 1789 3634 1785 3638 1903 3634 1931 3157 1923"/></Shape>
+	    <String CONTENT="Staatsarchiv"
+                    HPOS="3157"
+                    VPOS="1785"
+                    WIDTH="481"
+                    HEIGHT="146"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1528114909182_35"
+                    
+                    BASELINE="3175 2019 3624 2006" 
+                    HPOS="3165"
+                    VPOS="1895"
+                    WIDTH="457"
+                    HEIGHT="209">
+            <Shape><Polygon POINTS="3173 2018 3165 1911 3610 1895 3622 2002 3622 2104 3173 2104"/></Shape>
+	    <String CONTENT="AARGAU"
+                    HPOS="3165"
+                    VPOS="1895"
+                    WIDTH="457"
+                    HEIGHT="209"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5293"
+                   VPOS="2495"
+                   WIDTH="131"
+                   HEIGHT="235"
+                   ID="region_1528114934239_36"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="5293 2495 5424 2495 5424 2730 5293 2730"/></Shape>
+          
+          
+          <TextLine ID="line_1528114940310_37"
+                    
+                    BASELINE="5304 2519 5325 2694" 
+                    HPOS="5159"
+                    VPOS="2502"
+                    WIDTH="260"
+                    HEIGHT="201">
+            <Shape><Polygon POINTS="5301 2518 5388 2502 5419 2676 5321 2692 5179 2703 5159 2526"/></Shape>
+	    <String CONTENT="651"
+                    HPOS="5159"
+                    VPOS="2502"
+                    WIDTH="260"
+                    HEIGHT="201"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>U-17_0648_r.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="4912"
+          HEIGHT="7360"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4912"
+                  HEIGHT="7360">
+        
+        <TextBlock HPOS="750"
+                   VPOS="1794"
+                   WIDTH="3211"
+                   HEIGHT="3040"
+                   ID="region_1509378744810_1"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="750 1794 3961 1794 3961 4834 750 4834"/></Shape>
+          
+          
+          <TextLine ID="r1004"
+                    
+                    BASELINE="1010 2117 1454 2110 1975 2125 2567 2098 3086 2084 4128 2081" 
+                    HPOS="994"
+                    VPOS="1913"
+                    WIDTH="3132"
+                    HEIGHT="245">
+            <Shape><Polygon POINTS="1006 2116 994 1919 1283 1913 1289 1913 1289 1913 1295 1913 1295 1913 1295 1913 1301 1913 1301 1913 1301 1919 1301 1919 1369 1974 1559 1938 1559 1938 1559 1938 1565 1938 1565 1938 1571 1938 1571 1938 1762 2005 1946 1956 1952 1956 1952 1956 1958 1956 1958 1956 2382 1999 2462 1944 2468 1944 2468 1944 2468 1944 2474 1944 2474 1944 2474 1944 2480 1944 2480 1944 2793 1993 3119 1925 3162 1919 3162 1919 3162 1919 3168 1919 3168 1919 3168 1919 3174 1919 3198 1925 3340 1974 3444 1932 3444 1932 3450 1932 3450 1932 3450 1932 3456 1932 3456 1932 3456 1932 3462 1932 3462 1932 3573 1981 3757 1932 3763 1932 3763 1932 3769 1932 3769 1932 3769 1932 3776 1932 3776 1932 3911 1987 4107 1932 4126 2079 4119 2128 1006 2158"/></Shape>
+	    <String CONTENT="Ich, Hans Zȳmerman, jetz keller ze Elfingen, beken̄ offenlich mitt disem brieff, vō"
+                    HPOS="994"
+                    VPOS="1913"
+                    WIDTH="3132"
+                    HEIGHT="245"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1006"
+                    
+                    BASELINE="1051 2177 1561 2179 2072 2174 2582 2176 3093 2173 4117 2172" 
+                    HPOS="1043"
+                    VPOS="2079"
+                    WIDTH="3070"
+                    HEIGHT="147">
+            <Shape><Polygon POINTS="1049 2171 1049 2079 4113 2079 4113 2171 4107 2226 1043 2208"/></Shape>
+	    <String CONTENT="wegen des wegs, den ettlich von Altemburg meinēt, daselbs ze Altemburg durch"
+                    HPOS="1043"
+                    VPOS="2079"
+                    WIDTH="3070"
+                    HEIGHT="147"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1007"
+                    
+                    BASELINE="1158 2259 1630 2263 2102 2268 2574 2263 3046 2261 3992 2266" 
+                    HPOS="1148"
+                    VPOS="2152"
+                    WIDTH="2843"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="1154 2257 1154 2152 3984 2158 3991 2263 3984 2293 1148 2306"/></Shape>
+	    <String CONTENT="die Eichkorn zelg ùbˀ ein acker, den jetz Heini Fricker buwt un̄ in minˀ gnedigen"
+                    HPOS="1148"
+                    VPOS="2152"
+                    WIDTH="2843"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1008"
+                    
+                    BASELINE="1068 2360 1546 2351 2025 2354 2503 2353 2982 2352 3943 2350" 
+                    HPOS="1049"
+                    VPOS="2269"
+                    WIDTH="2892"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="1062 2355 1049 2275 3929 2269 3941 2349 3929 2404 1135 2379 1068 2410"/></Shape>
+	    <String CONTENT="frowen von Kùngsfeld guͤter gehoͤrt, ✳ haben odˀ faren soͤllen ꝫcꝭ, ✳ das mir nitt"
+                    HPOS="1049"
+                    VPOS="2269"
+                    WIDTH="2892"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1009"
+                    
+                    BASELINE="1138 2448 1618 2444 2098 2445 2578 2444 3058 2442 4021 2434" 
+                    HPOS="1123"
+                    VPOS="2330"
+                    WIDTH="2892"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="1135 2447 1123 2349 3997 2330 4015 2428 4009 2477 1135 2484"/></Shape>
+	    <String CONTENT="wissend ist un̄ han ouch von minē vordˀn noch andˀn nie gehoͤrt noch vˀnomen,"
+                    HPOS="1123"
+                    VPOS="2330"
+                    WIDTH="2892"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1010"
+                    
+                    BASELINE="1168 2536 1654 2538 2140 2535 2626 2534 3112 2535 4086 2521" 
+                    HPOS="1154"
+                    VPOS="2410"
+                    WIDTH="2929"
+                    HEIGHT="166">
+            <Shape><Polygon POINTS="1166 2533 1154 2434 4064 2410 4083 2520 4076 2576 1160 2563"/></Shape>
+	    <String CONTENT="das daselbs dhein weg von recht odˀ harkomen sie odˀ sin soͤll. mir ist ouch wol"
+                    HPOS="1154"
+                    VPOS="2410"
+                    WIDTH="2929"
+                    HEIGHT="166"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1011"
+                    
+                    BASELINE="1140 2620 1611 2623 2083 2628 2554 2624 3026 2642 3972 2625" 
+                    HPOS="1123"
+                    VPOS="2533"
+                    WIDTH="2843"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="1135 2618 1123 2545 3948 2533 3966 2618 3960 2655 1135 2661"/></Shape>
+	    <String CONTENT="wissend, das alle die zit, die ich ze Altemburg seshaft gewesen bin, das wir"
+                    HPOS="1123"
+                    VPOS="2533"
+                    WIDTH="2843"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1012"
+                    
+                    BASELINE="1158 2718 1624 2718 2091 2717 2557 2719 3024 2724 3961 2721" 
+                    HPOS="1148"
+                    VPOS="2612"
+                    WIDTH="2812"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="1154 2717 1148 2612 3948 2612 3960 2717 3954 2760 1154 2760"/></Shape>
+	    <String CONTENT="den weg nie von recht nie gehept noch gemeint habent ✳ habn̄ soͤllen, den̄"
+                    HPOS="1148"
+                    VPOS="2612"
+                    WIDTH="2812"
+                    HEIGHT="148"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1013"
+                    
+                    BASELINE="1166 2801 1640 2805 2114 2809 2588 2812 3062 2819 4014 2819" 
+                    HPOS="1148"
+                    VPOS="2704"
+                    WIDTH="2861"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="1160 2796 1160 2704 4003 2710 4009 2815 3997 2858 1148 2839"/></Shape>
+	    <String CONTENT="allein von bett, also wen̄ man des amdritten jar, so brâch da ist, notdurftig"
+                    HPOS="1148"
+                    VPOS="2704"
+                    WIDTH="2861"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1014"
+                    
+                    BASELINE="1142 2895 1628 2894 2115 2895 2601 2904 3088 2908 4064 2921" 
+                    HPOS="1123"
+                    VPOS="2802"
+                    WIDTH="2935"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="1135 2894 1129 2802 4052 2827 4058 2919 4046 2950 1123 2931"/></Shape>
+	    <String CONTENT="was, so schicktent un̄ kertent wir die mitt bett an, un̄ sundˀ den Bitterkrut,"
+                    HPOS="1123"
+                    VPOS="2802"
+                    WIDTH="2935"
+                    HEIGHT="148"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1015"
+                    
+                    BASELINE="1187 2983 1652 2988 2117 2991 2582 2999 3047 3004 3979 3022" 
+                    HPOS="1172"
+                    VPOS="2882"
+                    WIDTH="2806"
+                    HEIGHT="166">
+            <Shape><Polygon POINTS="1185 2980 1185 2882 3972 2925 3978 3017 3966 3048 1172 3036"/></Shape>
+	    <String CONTENT="selig, von Brugg, der dˀ zit den acker in̄hàtt, ✳ un̄ baͤtet̄ den, uns des wegs"
+                    HPOS="1172"
+                    VPOS="2882"
+                    WIDTH="2806"
+                    HEIGHT="166"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1016"
+                    
+                    BASELINE="1128 3081 1621 3079 2114 3082 2607 3092 3100 3097 4089 3105" 
+                    HPOS="1117"
+                    VPOS="2993"
+                    WIDTH="2966"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="1123 3078 1123 2993 4076 3017 4083 3103 4070 3146 2081 3115 1547 3140 1461 3140 1455 3140 1455 3140 1455 3140 1449 3140 1449 3140 1442 3140 1369 3109 1117 3134"/></Shape>
+	    <String CONTENT="gùtlich von bett un̄ nitt von recht zegoͤnnen, das uns ouch also dick gelangt."
+                    HPOS="1117"
+                    VPOS="2993"
+                    WIDTH="2966"
+                    HEIGHT="153"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1017"
+                    
+                    BASELINE="1101 3171 1589 3171 2077 3174 2565 3183 3053 3192 4032 3197" 
+                    HPOS="1092"
+                    VPOS="3066"
+                    WIDTH="2935"
+                    HEIGHT="178">
+            <Shape><Polygon POINTS="1099 3170 1099 3066 4027 3109 4027 3195 4015 3244 2928 3213 2535 3238 2492 3238 2486 3238 2486 3238 2486 3238 2480 3238 2474 3238 2363 3207 1866 3232 1848 3232 1842 3232 1842 3232 1842 3232 1835 3232 1657 3201 1092 3226"/></Shape>
+	    <String CONTENT="wir hand ouch dar zù die von Brugg ettwan angekerˀt, uns dan̄an hinusz"
+                    HPOS="1092"
+                    VPOS="3066"
+                    WIDTH="2935"
+                    HEIGHT="178"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1018"
+                    
+                    BASELINE="1167 3267 1655 3260 2143 3265 2631 3276 3119 3281 4098 3298" 
+                    HPOS="1154"
+                    VPOS="3164"
+                    WIDTH="2941"
+                    HEIGHT="178">
+            <Shape><Polygon POINTS="1166 3262 1160 3164 4089 3201 4095 3293 4083 3342 1154 3305"/></Shape>
+	    <String CONTENT="durch irn eynūg mitt unsˀm fich ze faren zegoͤnnen, das ouch guͤtlich beschach."
+                    HPOS="1154"
+                    VPOS="3164"
+                    WIDTH="2941"
+                    HEIGHT="178"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1019"
+                    
+                    BASELINE="1166 3355 1627 3355 2089 3356 2550 3371 3012 3380 3937 3383" 
+                    HPOS="1148"
+                    VPOS="3275"
+                    WIDTH="2787"
+                    HEIGHT="135">
+            <Shape><Polygon POINTS="1160 3354 1160 3275 3929 3293 3935 3379 3923 3410 1148 3397"/></Shape>
+	    <String CONTENT="sich hat ouch ettwan gefuͤgt, das der odˀ die, so den Obˀn Acker in hatten, un̄"
+                    HPOS="1148"
+                    VPOS="3275"
+                    WIDTH="2787"
+                    HEIGHT="135"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1020"
+                    
+                    BASELINE="1188 3452 1648 3458 2109 3461 2569 3472 3030 3479 3953 3474" 
+                    HPOS="1178"
+                    VPOS="3348"
+                    WIDTH="2770"
+                    HEIGHT="160">
+            <Shape><Polygon POINTS="1185 3446 1185 3348 2535 3348 2535 3348 2535 3348 2548 3348 2726 3379 3929 3354 3948 3471 3941 3508 1178 3508"/></Shape>
+	    <String CONTENT="sundˀ der Fricker, da dˀ acker zù sinē hand₎ kàm, sich des wegs widˀten un̄"
+                    HPOS="1178"
+                    VPOS="3348"
+                    WIDTH="2770"
+                    HEIGHT="160"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1021"
+                    
+                    BASELINE="1164 3541 1639 3547 2115 3552 2590 3555 3066 3567 4020 3567" 
+                    HPOS="1148"
+                    VPOS="3440"
+                    WIDTH="2867"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="1160 3538 1160 3440 4009 3471 4015 3563 4003 3588 1148 3569"/></Shape>
+	    <String CONTENT="der bett nitt gern eren woltēt. daruff hand ich un̄ andˀ von Altemburg, so"
+                    HPOS="1148"
+                    VPOS="3440"
+                    WIDTH="2867"
+                    HEIGHT="148"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1022"
+                    
+                    BASELINE="1163 3637 1649 3636 2135 3646 2621 3647 3107 3653 4083 3671" 
+                    HPOS="1148"
+                    VPOS="3538"
+                    WIDTH="2928"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="1160 3630 1160 3538 2934 3569 3137 3551 3192 3545 3192 3545 3198 3545 3315 3551 3843 3581 4070 3557 4076 3667 4064 3692 1148 3680"/></Shape>
+	    <String CONTENT="dˀ zit dawarēt, ettwan gerett un̄ gemeint, den weg ✳ ze leggen ùbˀ die ackˀ"
+                    HPOS="1148"
+                    VPOS="3538"
+                    WIDTH="2928"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1023"
+                    
+                    BASELINE="1162 3710 1651 3723 2141 3734 2630 3736 3120 3744 4103 3756" 
+                    HPOS="1148"
+                    VPOS="3630"
+                    WIDTH="2953"
+                    HEIGHT="178">
+            <Shape><Polygon POINTS="1160 3704 1160 3630 4095 3649 4101 3753 4089 3808 1148 3753"/></Shape>
+	    <String CONTENT="all, so da ligent, also das der eins jars, so man sin bedoͤrfte, gieng ùbˀ ein ackˀ"
+                    HPOS="1148"
+                    VPOS="3630"
+                    WIDTH="2953"
+                    HEIGHT="178"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1024"
+                    
+                    BASELINE="1122 3802 1602 3814 2083 3823 2563 3829 3044 3837 4007 3845" 
+                    HPOS="1105"
+                    VPOS="3716"
+                    WIDTH="2898"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="1117 3796 1117 3716 3997 3759 4003 3839 3991 3870 1105 3857"/></Shape>
+	    <String CONTENT="un̄ darnach ùbˀ die andˀn nach un̄ nach, un̄ denocht e das vollzogen der"
+                    HPOS="1105"
+                    VPOS="3716"
+                    WIDTH="2898"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1025"
+                    
+                    BASELINE="1138 3901 1615 3910 2092 3922 2569 3926 3046 3935 4002 3937" 
+                    HPOS="1123"
+                    VPOS="3821"
+                    WIDTH="2874"
+                    HEIGHT="147">
+            <Shape><Polygon POINTS="1135 3900 1129 3833 3991 3821 3997 3931 3984 3968 1123 3949"/></Shape>
+	    <String CONTENT="weg abˀ, als vor stât, erbetten wurd, un̄ ist von recht dhein weg da, soͤll"
+                    HPOS="1123"
+                    VPOS="3821"
+                    WIDTH="2874"
+                    HEIGHT="147"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1026"
+                    
+                    BASELINE="1152 4003 1635 4010 2119 4027 2602 4026 3086 4025 4057 4038" 
+                    HPOS="1135"
+                    VPOS="3913"
+                    WIDTH="2917"
+                    HEIGHT="159">
+            <Shape><Polygon POINTS="1148 3998 1148 3913 4046 3937 4052 4035 4040 4072 1135 4029"/></Shape>
+	    <String CONTENT="ouch nitt da sin. disz red un̄ behep ich bi minē eid un̄ erbùt mich ouch fùro"
+                    HPOS="1135"
+                    VPOS="3913"
+                    WIDTH="2917"
+                    HEIGHT="159"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1027"
+                    
+                    BASELINE="1143 4109 1620 4111 2098 4123 2575 4134 3051 4122 4007 4143" 
+                    HPOS="1129"
+                    VPOS="3998"
+                    WIDTH="2874"
+                    HEIGHT="191">
+            <Shape><Polygon POINTS="1142 4103 1142 3998 3997 4054 4003 4140 3991 4189 1129 4152"/></Shape>
+	    <String CONTENT="darub̄ sweren un̄ tùn mugen das rˀcht, ob un̄ wen̄ das not un̄ billich ist, nie¬"
+                    HPOS="1129"
+                    VPOS="3998"
+                    WIDTH="2874"
+                    HEIGHT="191"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1028"
+                    
+                    BASELINE="1149 4204 1638 4209 2128 4211 2617 4220 3107 4236 4088 4230" 
+                    HPOS="1135"
+                    VPOS="4121"
+                    WIDTH="2948"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="1148 4201 1148 4121 4070 4140 4083 4225 4070 4262 1135 4238"/></Shape>
+	    <String CONTENT="man zeleid, zelieb, noch um̄ dheinˀ andˀn sach den̄ allein um̄ der warheit"
+                    HPOS="1135"
+                    VPOS="4121"
+                    WIDTH="2948"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1029"
+                    
+                    BASELINE="1119 4291 1601 4301 2083 4309 2565 4317 3047 4329 4013 4330" 
+                    HPOS="1105"
+                    VPOS="4213"
+                    WIDTH="2904"
+                    HEIGHT="166">
+            <Shape><Polygon POINTS="1117 4287 1117 4213 4009 4232 4009 4324 3997 4379 1105 4348"/></Shape>
+	    <String CONTENT="un̄ des rechten willn̄, das damitt ze fùrdˀn ungevˀlich. mitt urkùnd disz"
+                    HPOS="1105"
+                    VPOS="4213"
+                    WIDTH="2904"
+                    HEIGHT="166"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1030"
+                    
+                    BASELINE="1165 4390 1644 4397 2124 4415 2603 4412 3083 4423 4045 4430" 
+                    HPOS="1148"
+                    VPOS="4281"
+                    WIDTH="2892"
+                    HEIGHT="196">
+            <Shape><Polygon POINTS="1160 4385 1160 4281 4033 4342 4040 4428 4027 4477 1148 4446"/></Shape>
+	    <String CONTENT="briefs, dar in der ersam, wisz Ùlrich Grùlich, der zit schulth̄s ze Brugg,"
+                    HPOS="1148"
+                    VPOS="4281"
+                    WIDTH="2892"
+                    HEIGHT="196"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1031"
+                    
+                    BASELINE="1182 4482 1656 4490 2131 4504 2605 4506 3080 4517 4032 4523" 
+                    HPOS="1166"
+                    VPOS="4385"
+                    WIDTH="2861"
+                    HEIGHT="184">
+            <Shape><Polygon POINTS="1178 4477 1178 4385 4021 4440 4027 4520 4015 4569 1166 4538"/></Shape>
+	    <String CONTENT="sin insigel fùr mich, brestēhalb eigens, von minˀ bett wegen, im un̄ sinen"
+                    HPOS="1166"
+                    VPOS="4385"
+                    WIDTH="2861"
+                    HEIGHT="184"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1032"
+                    
+                    BASELINE="1156 4596 1630 4597 2105 4609 2579 4603 3054 4596 4007 4619" 
+                    HPOS="1142"
+                    VPOS="4495"
+                    WIDTH="2861"
+                    HEIGHT="178">
+            <Shape><Polygon POINTS="1154 4593 1154 4495 3997 4508 4003 4618 3991 4673 1142 4618"/></Shape>
+	    <String CONTENT="erbn̄ ân schad₎, des zewarē urkùnd offenlich gedruckt hàt un̄ gebn̄ ist uff"
+                    HPOS="1142"
+                    VPOS="4495"
+                    WIDTH="2861"
+                    HEIGHT="178"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1033"
+                    
+                    BASELINE="1097 4687 1567 4688 2038 4696 2508 4702 2979 4703 3923 4657" 
+                    HPOS="1086"
+                    VPOS="4600"
+                    WIDTH="2831"
+                    HEIGHT="269">
+            <Shape><Polygon POINTS="1092 4685 1086 4600 3911 4600 3917 4655 3917 4728 3548 4741 3462 4826 3462 4833 3462 4833 3456 4833 3456 4833 3456 4833 3450 4833 3450 4833 3450 4833 3284 4839 3284 4839 2885 4845 2879 4845 2879 4845 2873 4845 2873 4845 2873 4845 2867 4845 2763 4777 2646 4771 2560 4765 2541 4771 2492 4808 2486 4808 2486 4808 2486 4808 2480 4808 2480 4808 2480 4808 2474 4808 2474 4808 2468 4808 2468 4808 2468 4808 2462 4808 2413 4777 2394 4765 2222 4777 2216 4784 2001 4863 2001 4863 1995 4863 1995 4863 1989 4863 1989 4863 1989 4863 1983 4863 1780 4808 1682 4869 1676 4869 1676 4869 1670 4869 1670 4869 1670 4869 1663 4869 1663 4869 1657 4869 1467 4820 1295 4851 1295 4851 1295 4851 1289 4851 1289 4851 1283 4851 1283 4851 1283 4851 1277 4851 1228 4814 1221 4814 1092 4814"/></Shape>
+	    <String CONTENT="unser frowen abent visitacōis, anno dn̄i m cccc l primo."
+                    HPOS="1086"
+                    VPOS="4600"
+                    WIDTH="2831"
+                    HEIGHT="269"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
